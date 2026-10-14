@@ -1,0 +1,8 @@
+# Requires Python >=3.10, installed separately.
+# Packages for JupyterLab, the Python kernel, and Neo4j access.
+jupyterlab==4.6.4
+neo4j==5.28.6
+nbformat==5.5.0
+nbclient==0.5.13
+ipykernel==6.15.2
+jupyter-client==8.6.3
