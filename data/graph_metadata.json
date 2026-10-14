@@ -1,0 +1,620 @@
+{
+  "reaction_nodes": [
+    {
+      "ID": "284292",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "202979",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "443081",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "277722",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "399924",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "371050",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "40656",
+      "singleReaction": "true"
+    },
+    {
+      "ID": "158748",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "166460",
+      "singleReaction": "true"
+    },
+    {
+      "ID": "40644",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "62033",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "212596",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "400457",
+      "singleReaction": "true"
+    },
+    {
+      "ID": "62076",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "169917",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "11895",
+      "singleReaction": "true"
+    },
+    {
+      "ID": "398101",
+      "singleReaction": "true"
+    },
+    {
+      "ID": "187562",
+      "singleReaction": "true"
+    },
+    {
+      "ID": "229221",
+      "singleReaction": "true"
+    },
+    {
+      "ID": "203659",
+      "singleReaction": "true"
+    },
+    {
+      "ID": "311263",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "467196",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "243596",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "268596",
+      "singleReaction": "true"
+    },
+    {
+      "ID": "132355",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "193365",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "252272",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "419527",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "355981",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "271904",
+      "singleReaction": "true"
+    },
+    {
+      "ID": "406540",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "352613",
+      "singleReaction": "true"
+    },
+    {
+      "ID": "316382",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "468528",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "192767",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "156262",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "394056",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "193135",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "281416",
+      "singleReaction": "false"
+    },
+    {
+      "ID": "359823",
+      "singleReaction": "false"
+    }
+  ],
+  "journal_nodes": [
+    {
+      "publisherChinese": "爱思唯尔",
+      "jcrIF": "6.3",
+      "ucasTop": "FALSE",
+      "EISSN": "1873-5584",
+      "abbreviation": "Appl Surf Sci",
+      "openAccess": "FALSE",
+      "publisher": "Elsevier",
+      "jcrQuartile": "Q1",
+      "jcrIF5years": "5.9",
+      "category": "PHYSICS, CONDENSED MATTER",
+      "ISSN": "0169-4332",
+      "ucasQuartile": "2",
+      "jcrRank": "17/79",
+      "journalName": "Applied Surface Science"
+    },
+    {
+      "jcrIF": 20.2,
+      "journalName": "Applied Catalysis B-environmental"
+    },
+    {
+      "publisherChinese": "爱思唯尔",
+      "jcrIF": "3.2",
+      "ucasTop": "FALSE",
+      "EISSN": "1095-726X",
+      "abbreviation": "J Solid State Chem",
+      "openAccess": "FALSE",
+      "publisher": "Elsevier",
+      "jcrQuartile": "Q2",
+      "jcrIF5years": "3",
+      "category": "CHEMISTRY, PHYSICAL",
+      "ISSN": "0022-4596",
+      "ucasQuartile": "3",
+      "jcrRank": "87/178",
+      "journalName": "Journal Of Solid State Chemistry"
+    },
+    {
+      "publisherChinese": "爱思唯尔",
+      "jcrIF": "9.7",
+      "ucasTop": "TRUE",
+      "EISSN": "1879-1786",
+      "abbreviation": "J Clean Prod",
+      "openAccess": "FALSE",
+      "publisher": "Elsevier",
+      "jcrQuartile": "Q1",
+      "jcrIF5years": "10.2",
+      "category": "GREEN & SUSTAINABLE SCIENCE & TECHNOLOGY",
+      "ISSN": "0959-6526",
+      "ucasQuartile": "1",
+      "jcrRank": "13/91",
+      "journalName": "Journal Of Cleaner Production"
+    },
+    {
+      "publisherChinese": "爱思唯尔",
+      "jcrIF": "7.2",
+      "ucasTop": "FALSE",
+      "EISSN": "2212-9839",
+      "abbreviation": "J Co2 Util",
+      "openAccess": "TRUE",
+      "publisher": "Elsevier",
+      "jcrQuartile": "Q1",
+      "jcrIF5years": "7.4",
+      "category": "ENGINEERING, CHEMICAL",
+      "ISSN": "2212-9820",
+      "ucasQuartile": "2",
+      "jcrRank": "19/170",
+      "journalName": "Journal Of Co2 Utilization"
+    },
+    {
+      "publisherChinese": "爱思唯尔",
+      "jcrIF": "8.1",
+      "ucasTop": "FALSE",
+      "EISSN": "1879-3487",
+      "abbreviation": "Int J Hydrogen Energ",
+      "openAccess": "FALSE",
+      "publisher": "Elsevier",
+      "jcrQuartile": "Q1",
+      "jcrIF5years": "7.3",
+      "category": "ENERGY & FUELS",
+      "ISSN": "0360-3199",
+      "ucasQuartile": "2",
+      "jcrRank": "33/170",
+      "journalName": "International Journal Of Hydrogen Energy"
+    },
+    {
+      "publisherChinese": "自然出版集团",
+      "jcrIF": "14.7",
+      "ucasTop": "TRUE",
+      "EISSN": "2041-1723",
+      "abbreviation": "Nat Commun",
+      "openAccess": "TRUE",
+      "publisher": "Nature Publishing Group",
+      "jcrQuartile": "Q1",
+      "jcrIF5years": "16.1",
+      "category": "MULTIDISCIPLINARY SCIENCES",
+      "ISSN": "N/A",
+      "ucasQuartile": "1",
+      "jcrRank": "8/134",
+      "journalName": "Nature Communications"
+    },
+    {
+      "publisherChinese": "爱思唯尔",
+      "jcrIF": "38.6",
+      "ucasTop": "TRUE",
+      "EISSN": "2542-4351",
+      "abbreviation": "Joule",
+      "openAccess": "FALSE",
+      "publisher": "Elsevier",
+      "jcrQuartile": "Q1",
+      "jcrIF5years": "44.8",
+      "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+      "ISSN": "2542-4351",
+      "ucasQuartile": "1",
+      "jcrRank": "4/438",
+      "journalName": "Joule"
+    },
+    {
+      "publisherChinese": "约翰·威立",
+      "jcrIF": "14.3",
+      "ucasTop": "TRUE",
+      "EISSN": "2198-3844",
+      "abbreviation": "Adv Sci",
+      "openAccess": "TRUE",
+      "publisher": "John Wiley & Sons",
+      "jcrQuartile": "Q1",
+      "jcrIF5years": "16.3",
+      "category": "NANOSCIENCE & NANOTECHNOLOGY",
+      "ISSN": "N/A",
+      "ucasQuartile": "1",
+      "jcrRank": "12/140",
+      "journalName": "Advanced Science"
+    },
+    {
+      "publisherChinese": "爱思唯尔",
+      "jcrIF": "3.4",
+      "ucasTop": "FALSE",
+      "EISSN": "1873-3905",
+      "abbreviation": "Catal Commun",
+      "openAccess": "FALSE",
+      "publisher": "Elsevier",
+      "jcrQuartile": "Q2",
+      "jcrIF5years": "2.9",
+      "category": "CHEMISTRY, PHYSICAL",
+      "ISSN": "1566-7367",
+      "ucasQuartile": "3",
+      "jcrRank": "79/178",
+      "journalName": "Catalysis Communications"
+    },
+    {
+      "publisherChinese": "爱思唯尔",
+      "jcrIF": "13.3",
+      "ucasTop": "TRUE",
+      "EISSN": "1873-3212",
+      "abbreviation": "Chem Eng J",
+      "openAccess": "FALSE",
+      "publisher": "Elsevier",
+      "jcrQuartile": "Q1",
+      "jcrIF5years": "13.2",
+      "category": "ENGINEERING, ENVIRONMENTAL",
+      "ISSN": "1385-8947",
+      "ucasQuartile": "1",
+      "jcrRank": "3/81",
+      "journalName": "Chemical Engineering Journal"
+    },
+    {
+      "publisherChinese": "爱思唯尔",
+      "jcrIF": "6.7",
+      "ucasTop": "TRUE",
+      "EISSN": "1873-7153",
+      "abbreviation": "Fuel",
+      "openAccess": "FALSE",
+      "publisher": "Elsevier",
+      "jcrQuartile": "Q1",
+      "jcrIF5years": "6.5",
+      "category": "ENGINEERING, CHEMICAL",
+      "ISSN": "0016-2361",
+      "ucasQuartile": "2",
+      "jcrRank": "23/170",
+      "journalName": "Fuel"
+    },
+    {
+      "publisherChinese": "爱思唯尔",
+      "jcrIF": "9.4",
+      "ucasTop": "TRUE",
+      "EISSN": "1095-7103",
+      "abbreviation": "J Colloid Interf Sci",
+      "openAccess": "FALSE",
+      "publisher": "Elsevier",
+      "jcrQuartile": "Q1",
+      "jcrIF5years": "8.2",
+      "category": "CHEMISTRY, PHYSICAL",
+      "ISSN": "0021-9797",
+      "ucasQuartile": "1",
+      "jcrRank": "32/178",
+      "journalName": "Journal Of Colloid And Interface Science"
+    },
+    {
+      "publisherChinese": "爱思唯尔",
+      "jcrIF": "16.8",
+      "ucasTop": "TRUE",
+      "EISSN": "2211-3282",
+      "abbreviation": "Nano Energy",
+      "openAccess": "FALSE",
+      "publisher": "Elsevier",
+      "jcrQuartile": "Q1",
+      "jcrIF5years": "16.3",
+      "category": "PHYSICS, APPLIED",
+      "ISSN": "2211-2855",
+      "ucasQuartile": "2",
+      "jcrRank": "10/179",
+      "journalName": "Nano Energy"
+    },
+    {
+      "publisherChinese": "爱思唯尔",
+      "jcrIF": "5.2",
+      "ucasTop": "FALSE",
+      "EISSN": "1873-4308",
+      "abbreviation": "Catal Today",
+      "openAccess": "FALSE",
+      "publisher": "Elsevier",
+      "jcrQuartile": "Q1",
+      "jcrIF5years": "5",
+      "category": "ENGINEERING, CHEMICAL",
+      "ISSN": "0920-5861",
+      "ucasQuartile": "2",
+      "jcrRank": "35/170",
+      "journalName": "Catalysis Today"
+    },
+    {
+      "jcrIF": 3.9,
+      "journalName": "Journal Of Molecular Catalysis A-chemical"
+    },
+    {
+      "publisherChinese": "爱思唯尔",
+      "jcrIF": "7.2",
+      "ucasTop": "TRUE",
+      "EISSN": "1873-7188",
+      "abbreviation": "Fuel Process Technol",
+      "openAccess": "TRUE",
+      "publisher": "Elsevier",
+      "jcrQuartile": "Q1",
+      "jcrIF5years": "6.6",
+      "category": "ENGINEERING, CHEMICAL",
+      "ISSN": "0378-3820",
+      "ucasQuartile": "2",
+      "jcrRank": "19/170",
+      "journalName": "Fuel Processing Technology"
+    },
+    {
+      "publisherChinese": "爱思唯尔",
+      "jcrIF": "14",
+      "ucasTop": "TRUE",
+      "EISSN": "2095-4956",
+      "abbreviation": "J Energy Chem",
+      "openAccess": "FALSE",
+      "publisher": "Elsevier",
+      "jcrQuartile": "Q1",
+      "jcrIF5years": "12.3",
+      "category": "ENGINEERING, CHEMICAL",
+      "ISSN": "2095-4956",
+      "ucasQuartile": "1",
+      "jcrRank": "6/170",
+      "journalName": "Journal Of Energy Chemistry"
+    },
+    {
+      "publisherChinese": "爱思唯尔",
+      "jcrIF": "5.9",
+      "ucasTop": "FALSE",
+      "EISSN": "1876-794X",
+      "abbreviation": "J Ind Eng Chem",
+      "openAccess": "FALSE",
+      "publisher": "Elsevier",
+      "jcrQuartile": "Q1",
+      "jcrIF5years": "5.3",
+      "category": "ENGINEERING, CHEMICAL",
+      "ISSN": "1226-086X",
+      "ucasQuartile": "3",
+      "jcrRank": "28/170",
+      "journalName": "Journal Of Industrial And Engineering Chemistry"
+    },
+    {
+      "publisherChinese": "MDPI出版社",
+      "jcrIF": "2.8",
+      "ucasTop": "FALSE",
+      "EISSN": "2227-9717",
+      "abbreviation": "Processes",
+      "openAccess": "TRUE",
+      "publisher": "MDPI AG",
+      "jcrQuartile": "Q2",
+      "jcrIF5years": "3",
+      "category": "ENGINEERING, CHEMICAL",
+      "ISSN": "N/A",
+      "ucasQuartile": "4",
+      "jcrRank": "80/170",
+      "journalName": "Processes"
+    },
+    {
+      "publisherChinese": "爱思唯尔",
+      "jcrIF": "10.1",
+      "ucasTop": "TRUE",
+      "EISSN": "1872-9118",
+      "abbreviation": "Appl Energ",
+      "openAccess": "FALSE",
+      "publisher": "Elsevier",
+      "jcrQuartile": "Q1",
+      "jcrIF5years": "10.4",
+      "category": "ENGINEERING, CHEMICAL",
+      "ISSN": "0306-2619",
+      "ucasQuartile": "1",
+      "jcrRank": "11/170",
+      "journalName": "Applied Energy"
+    },
+    {
+      "jcrQuartile": "Q2",
+      "jcrIF5years": "4.8",
+      "jcrIF": "4.7",
+      "category": "ENVIRONMENTAL SCIENCES",
+      "ucasTop": "FALSE",
+      "ISSN": "0926-860X",
+      "EISSN": "1873-3875",
+      "ucasQuartile": "2",
+      "jcrRank": "93/358",
+      "journalName": "Applied Catalysis A-General",
+      "openAccess": "FALSE",
+      "abbreviation": "Appl Catal A-Gen"
+    },
+    {
+      "publisherChinese": "爱思唯尔",
+      "jcrIF": "6.5",
+      "ucasTop": "TRUE",
+      "EISSN": "1090-2694",
+      "abbreviation": "J Catal",
+      "openAccess": "FALSE",
+      "publisher": "Elsevier",
+      "jcrQuartile": "Q1",
+      "jcrIF5years": "7",
+      "category": "ENGINEERING, CHEMICAL",
+      "ISSN": "0021-9517",
+      "ucasQuartile": "1",
+      "jcrRank": "24/170",
+      "journalName": "Journal Of Catalysis"
+    }
+  ],
+  "publisher_nodes": [
+    {
+      "publisherChinese": "爱思唯尔",
+      "publisher": "Elsevier"
+    },
+    {
+      "publisherChinese": "自然出版集团",
+      "publisher": "Nature Publishing Group"
+    },
+    {
+      "publisherChinese": "约翰·威立",
+      "publisher": "John Wiley & Sons"
+    },
+    {
+      "publisherChinese": "MDPI出版社",
+      "publisher": "MDPI AG"
+    }
+  ],
+  "journalToPublisher_relation": [
+    {
+      "journalName": "Applied Surface Science",
+      "publisher": "Elsevier"
+    },
+    {
+      "journalName": "Journal Of Solid State Chemistry",
+      "publisher": "Elsevier"
+    },
+    {
+      "journalName": "Journal Of Cleaner Production",
+      "publisher": "Elsevier"
+    },
+    {
+      "journalName": "Journal Of Co2 Utilization",
+      "publisher": "Elsevier"
+    },
+    {
+      "journalName": "International Journal Of Hydrogen Energy",
+      "publisher": "Elsevier"
+    },
+    {
+      "journalName": "Nature Communications",
+      "publisher": "Nature Publishing Group"
+    },
+    {
+      "journalName": "Joule",
+      "publisher": "Elsevier"
+    },
+    {
+      "journalName": "Advanced Science",
+      "publisher": "John Wiley & Sons"
+    },
+    {
+      "journalName": "Catalysis Communications",
+      "publisher": "Elsevier"
+    },
+    {
+      "journalName": "Chemical Engineering Journal",
+      "publisher": "Elsevier"
+    },
+    {
+      "journalName": "Fuel",
+      "publisher": "Elsevier"
+    },
+    {
+      "journalName": "Journal Of Colloid And Interface Science",
+      "publisher": "Elsevier"
+    },
+    {
+      "journalName": "Nano Energy",
+      "publisher": "Elsevier"
+    },
+    {
+      "journalName": "Catalysis Today",
+      "publisher": "Elsevier"
+    },
+    {
+      "journalName": "Fuel Processing Technology",
+      "publisher": "Elsevier"
+    },
+    {
+      "journalName": "Journal Of Energy Chemistry",
+      "publisher": "Elsevier"
+    },
+    {
+      "journalName": "Journal Of Industrial And Engineering Chemistry",
+      "publisher": "Elsevier"
+    },
+    {
+      "journalName": "Processes",
+      "publisher": "MDPI AG"
+    },
+    {
+      "journalName": "Applied Energy",
+      "publisher": "Elsevier"
+    },
+    {
+      "journalName": "Journal Of Catalysis",
+      "publisher": "Elsevier"
+    },
+    {
+      "journalName": "Applied Catalysis B-environmental",
+      "publisher": "Elsevier"
+    },
+    {
+      "journalName": "Journal Of Molecular Catalysis A-chemical",
+      "publisher": "Elsevier"
+    },
+    {
+      "journalName": "Applied Catalysis A-General",
+      "publisher": "Elsevier"
+    }
+  ]
+}

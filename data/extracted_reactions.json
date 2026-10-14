@@ -1,0 +1,3247 @@
+{
+  "article_215001": {
+    "articleInformation": {
+      "pubDate": "2015/05/30",
+      "citations": 87,
+      "title": "Gold-indium modified TiO2 nanocatalysts for photocatalytic CO2 reduction with H2 as reductant in a monolith photoreactor",
+      "journalName": "Applied Surface Science",
+      "impactEffect": 6.3,
+      "doi": "10.1016/j.apsusc.2015.02.126"
+    },
+    "reactionDetails": [
+      {
+        "ID": "284292",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO2",
+                "conversion": "9.5%"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "18.6%"
+              }
+            ],
+            "reactantMixtureRatio": "CO2/H2 = 1.5"
+          },
+          "catalyst": {
+            "catalystName": "Au–In/TiO2",
+            "catalystMixtureRatio": "0.2wt.% Au–3.5wt.% In/TiO2",
+            "promoters": [],
+            "catalystBETSurfaceArea": "98 m2/g",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "unknown",
+            "catalystSupport": "monolith channels",
+            "catalystShape": "nanocrystals",
+            "catalystPoreSize": "mesoporous",
+            "catalystPoreVolume": "increased with metal doping",
+            "catPreparationMethod": "sol–gel method"
+          },
+          "conditions": {
+            "reactionType": "photocatalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "CO2",
+                "pressure": "0.40 bars"
+              },
+              {
+                "gasName": "H2",
+                "pressure": "0.40 bars"
+              },
+              {
+                "gasName": "He",
+                "pressure": "0.40 bars"
+              }
+            ],
+            "temperature": "100°C",
+            "reactionTime": "2 hours",
+            "lightSource": "200W Hg lamp for UV irradiations source",
+            "lightWavelength": "254 nm",
+            "quantumEfficiency": "0.79%"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "C2H4",
+              "yield": "unknown",
+              "selectivity": "trace distribution"
+            },
+            {
+              "productName": "CO",
+              "yield": "8982 μmol g-catal−1 h−1",
+              "selectivity": "99%"
+            },
+            {
+              "productName": "CH4",
+              "yield": "unknown",
+              "selectivity": "smaller amount"
+            },
+            {
+              "productName": "C2H6",
+              "yield": "unknown",
+              "selectivity": "second largest yield"
+            },
+            {
+              "productName": "C3H6",
+              "yield": "unknown",
+              "selectivity": "much higher yield at a lower CO2/H2 feed ratio"
+            },
+            {
+              "productName": "C3H8",
+              "yield": "unknown",
+              "selectivity": "trace distribution"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_153444": {
+    "articleInformation": {
+      "pubDate": "2018/01/01",
+      "citations": 84,
+      "title": "Photocatalytic carbon dioxide reduction to fuels in continuous flow monolith photoreactor using montmorillonite dispersed Fe/TiO2 nanocatalyst",
+      "journalName": "Journal Of Cleaner Production",
+      "impactEffect": 9.7,
+      "doi": "10.1016/j.jclepro.2017.09.118"
+    },
+    "reactionDetails": [
+      {
+        "ID": "202979",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO2",
+                "conversion": "unknown"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "CO2/H2 = 1.0"
+          },
+          "catalyst": {
+            "catalystName": "Fe-MMT/TiO2",
+            "catalystMixtureRatio": "3% Fe-10 wt % MMT/TiO2",
+            "promoters": [
+              "Fe"
+            ],
+            "catalystBETSurfaceArea": "45 m2 g−1",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "25 mg",
+            "catalystSupport": "MMT",
+            "catalystShape": "nanocomposite",
+            "catalystPoreSize": "9 nm",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "sol-gel method"
+          },
+          "conditions": {
+            "reactionType": "photocatalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "CO2",
+                "pressure": "atmospheric pressure"
+              },
+              {
+                "gasName": "H2",
+                "pressure": "atmospheric pressure"
+              }
+            ],
+            "temperature": "100 °C",
+            "reactionTime": "6 h",
+            "lightSource": "200 W Hg reflector lamp",
+            "lightWavelength": "252 nm",
+            "quantumEfficiency": "unknown"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CO",
+              "yield": "166 μmole g-catal.−1 h−1",
+              "selectivity": "99.70%"
+            },
+            {
+              "productName": "H2O",
+              "yield": "unknown",
+              "selectivity": "unknown"
+            },
+            {
+              "productName": "CH4",
+              "yield": "small amount",
+              "selectivity": "unknown"
+            },
+            {
+              "productName": "C2H6",
+              "yield": "detected",
+              "selectivity": "unknown"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_327497": {
+    "articleInformation": {
+      "pubDate": "2021/06/01",
+      "citations": 24,
+      "title": "Photo-enhanced CO2 hydrogenation by plasmonic Cu/ZnO at atmospheric pressure",
+      "journalName": "Journal Of Solid State Chemistry",
+      "impactEffect": 3.2,
+      "doi": "10.1016/j.jssc.2021.122113"
+    },
+    "reactionDetails": [
+      {
+        "ID": "443081",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "carbon dioxide",
+                "conversion": "unknown"
+              },
+              {
+                "reactantName": "hydrogen",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "CO2:H2 = 1:4"
+          },
+          "catalyst": {
+            "catalystName": "Cu/ZnO",
+            "catalystMixtureRatio": "Cu/Zn = 1:1",
+            "promoters": [],
+            "catalystBETSurfaceArea": "43.05 m² g⁻¹",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "50 mg",
+            "catalystSupport": "ZnO",
+            "catalystShape": "uniform solid small particles, Cu nanoparticles ~5 nm, ZnO nanoparticles 25-40 nm",
+            "catalystPoreSize": "mesoporous, unknown value",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "simple precipitation method, followed by calcination and reduction"
+          },
+          "conditions": {
+            "reactionType": "photocatalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "CO2",
+                "pressure": "atmospheric pressure"
+              },
+              {
+                "gasName": "H2",
+                "pressure": "atmospheric pressure"
+              }
+            ],
+            "temperature": "300 °C",
+            "reactionTime": "up to 3 hours",
+            "lightSource": "300 W xenon arc lamp (UV-Vis-IR)",
+            "lightWavelength": "UV-Vis-IR",
+            "quantumEfficiency": "unknown"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "carbon monoxide",
+              "yield": "246.54 μmol g⁻¹ h⁻¹",
+              "selectivity": "100%"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_209618": {
+    "articleInformation": {
+      "pubDate": "2017/12/15",
+      "citations": 82,
+      "title": "Synergistic effect in MMT-dispersed Au/TiO2 monolithic nanocatalyst for plasmon-absorption and metallic interband transitions dynamic CO2 photo-reduction to CO",
+      "journalName": "Applied Catalysis B-environmental",
+      "impactEffect": 20.2,
+      "doi": "10.1016/j.apcatb.2017.07.062"
+    },
+    "reactionDetails": [
+      {
+        "ID": "277722",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO2",
+                "conversion": "unknown"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "CO2/H2 = 1.0"
+          },
+          "catalyst": {
+            "catalystName": "MMT-dispersed Au/TiO2",
+            "catalystMixtureRatio": "0.5wt.% Au–10wt.% MMT/TiO2",
+            "promoters": [
+              "MMT"
+            ],
+            "catalystBETSurfaceArea": "54 m2/g (0.2% Au loading), 51 m2/g (0.5% Au loading), 46 m2/g (1.0% Au-loading)",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "catalyst coated ceramic monoliths with channel per square inch (CPSI) 200",
+            "catalystSupport": "Cordierite monolithic support",
+            "catalystShape": "nanoparticles",
+            "catalystPoreSize": "7 nm (Au-loaded MMT/TiO2)",
+            "catalystPoreVolume": "increased in Au-loaded MMT/TiO2 samples",
+            "catPreparationMethod": "sol-gel method"
+          },
+          "conditions": {
+            "reactionType": "photocatalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "CO2",
+                "pressure": "atmospheric pressure"
+              },
+              {
+                "gasName": "H2",
+                "pressure": "atmospheric pressure"
+              }
+            ],
+            "temperature": "100°C",
+            "reactionTime": "44h",
+            "lightSource": "UV-light (200W Hg reflector lamp) or Simulated sunlight (solar simulator LCS-100 (Newport) integrated with UV-cut filters)",
+            "lightWavelength": "252nm (UV-light), one solar spectrum (visible light)",
+            "quantumEfficiency": "unknown"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CO",
+              "yield": "1223 μmole g-catal.−1 h−1 (UV-light), 199 μmole g-catal.−1 h−1 (visible light)",
+              "selectivity": "98.89% (UV-light)"
+            },
+            {
+              "productName": "CH4",
+              "yield": "42 μmole g-catal.−1 h−1 (visible light)",
+              "selectivity": "unknown"
+            },
+            {
+              "productName": "C2H6",
+              "yield": "unknown",
+              "selectivity": "unknown"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_305550": {
+    "articleInformation": {
+      "pubDate": "2017/03/01",
+      "citations": 81,
+      "title": "Photo-induced reduction of CO2 to CO with hydrogen over plasmonic Ag-NPs/TiO2 NWs core/shell hetero-junction under UV and visible light",
+      "journalName": "Journal Of Co2 Utilization",
+      "impactEffect": 7.2,
+      "doi": "10.1016/j.jcou.2017.02.002"
+    },
+    "reactionDetails": [
+      {
+        "ID": "399924",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO2",
+                "conversion": "1.43%"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "2.35%"
+              }
+            ],
+            "reactantMixtureRatio": "CO2/H2 = 1.0"
+          },
+          "catalyst": {
+            "catalystName": "Ag-NPs/TiO2 NWs",
+            "catalystMixtureRatio": "3wt.% Ag-NPs-loaded TiO2 NWs",
+            "promoters": [
+              "Ag-NPs"
+            ],
+            "catalystBETSurfaceArea": "48 m2 g−1",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "10mg",
+            "catalystSupport": "TiO2 NWs",
+            "catalystShape": "core-shell hetero-junction",
+            "catalystPoreSize": "25 nm",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "facile hydrothermal and photoreduction method"
+          },
+          "conditions": {
+            "reactionType": "photocatalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "CO2",
+                "pressure": "0.20bar above the atmospheric pressure"
+              },
+              {
+                "gasName": "H2",
+                "pressure": "0.20bar above the atmospheric pressure"
+              }
+            ],
+            "temperature": "100 °C",
+            "reactionTime": "2 hours",
+            "lightSource": "35W car HID lamp/solar simulator LCS-100/200W Hg reflector lamp",
+            "lightWavelength": "UV and Visible",
+            "quantumEfficiency": "unknown"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CH3OH",
+              "yield": "13μmole g-catal.−1 h−1",
+              "selectivity": "unknown"
+            },
+            {
+              "productName": "CO",
+              "yield": "983μmole g-catal.−1 h−1",
+              "selectivity": "98%"
+            },
+            {
+              "productName": "CH4",
+              "yield": "unknown",
+              "selectivity": "unknown"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_280920": {
+    "articleInformation": {
+      "pubDate": "2017/06/08",
+      "citations": 81,
+      "title": "Photo-induced CO2 reduction by hydrogen for selective CO evolution in a dynamic monolith photoreactor loaded with Ag-modified TiO2 nanocatalyst",
+      "journalName": "International Journal Of Hydrogen Energy",
+      "impactEffect": 8.1,
+      "doi": "10.1016/j.ijhydene.2017.05.039"
+    },
+    "reactionDetails": [
+      {
+        "ID": "371050",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO2",
+                "conversion": "unknown"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "CO2/H2 = 1.0"
+          },
+          "catalyst": {
+            "catalystName": "Ag/TiO2",
+            "catalystMixtureRatio": "3 wt. % Ag/TiO2, 5 wt. % Ag/TiO2, 7 wt. % Ag/TiO2",
+            "promoters": [],
+            "catalystBETSurfaceArea": "50 m2/g (3 wt. % Ag/TiO2), 63 m2/g (5 wt. % Ag/TiO2), 43 m2/g (TiO2)",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "60 mg",
+            "catalystSupport": "cordierite monolithic support",
+            "catalystShape": "nanoparticles",
+            "catalystPoreSize": "2-6 nm",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "sol–gel method"
+          },
+          "conditions": {
+            "reactionType": "photocatalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "CO2",
+                "pressure": "atmospheric pressure"
+              },
+              {
+                "gasName": "H2",
+                "pressure": "atmospheric pressure"
+              }
+            ],
+            "temperature": "100 °C",
+            "reactionTime": "varied",
+            "lightSource": "200 W Hg lamp",
+            "lightWavelength": "252 nm",
+            "quantumEfficiency": "0.143% (5 wt. % Ag/TiO2)"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CO",
+              "yield": "1335 μmole g-catal.−1 h−1 (5 wt. % Ag/TiO2)",
+              "selectivity": "99.92% (5 wt. % Ag/TiO2)"
+            },
+            {
+              "productName": "H2O",
+              "yield": "unknown",
+              "selectivity": "unknown"
+            },
+            {
+              "productName": "CH4",
+              "yield": "varied, dependent on irradiation time and Ag loading",
+              "selectivity": "lower than CO"
+            },
+            {
+              "productName": "C2H6",
+              "yield": "detected in the presence of TiO2 catalyst loaded with 7% Ag",
+              "selectivity": "unknown"
+            },
+            {
+              "productName": "C3H6",
+              "yield": "detected in the presence of TiO2 catalyst loaded with 7% Ag",
+              "selectivity": "unknown"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_25831": {
+    "articleInformation": {
+      "pubDate": "2018/06/01",
+      "citations": 128,
+      "title": "Tailoring Surface Frustrated Lewis Pairs of In2O3-x(OH)y for Gas-Phase Heterogeneous Photocatalytic Reduction of CO2 by Isomorphous Substitution of In3+ with Bi3+",
+      "journalName": "Advanced Science",
+      "impactEffect": 14.3,
+      "doi": "10.1002/advs.201700732"
+    },
+    "reactionDetails": [
+      {
+        "ID": "40656",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO2",
+                "conversion": "unknown"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "H2:CO2 = 1:1"
+          },
+          "catalyst": {
+            "catalystName": "BizIn2−zO3−x(OH)y nanocrystals",
+            "catalystMixtureRatio": "z = 0.0003, 0.0005, 0.0008, 0.001, or 0.005 (nominal molar ratio of bismuth to indium)",
+            "promoters": [],
+            "catalystBETSurfaceArea": "unknown",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "20 mg",
+            "catalystSupport": "None",
+            "catalystShape": "nanocrystals",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "dehydroxylation of Bi3+-substituted In(OH)3 in air at 250 °C for 6 h"
+          },
+          "conditions": {
+            "reactionType": "photocatalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "H2",
+                "pressure": "30 psi"
+              },
+              {
+                "gasName": "CO2",
+                "pressure": "30 psi"
+              }
+            ],
+            "temperature": "150 °C",
+            "reactionTime": "12 h",
+            "lightSource": "1000 W Hortilux Blue metal halide bulb",
+            "lightWavelength": "420-650 nm",
+            "quantumEfficiency": "unknown"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CO",
+              "yield": "1.32 µmol gcat−1 h−1",
+              "selectivity": "100 %"
+            },
+            {
+              "productName": "H2O",
+              "yield": "unknown",
+              "selectivity": "unknown"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_113394": {
+    "articleInformation": {
+      "pubDate": "2016/07/30",
+      "citations": 95,
+      "title": "Dynamic photocatalytic reduction of CO2 to CO in a honeycomb monolith reactor loaded with Cu and N doped TiO2 nanocatalysts",
+      "journalName": "Applied Surface Science",
+      "impactEffect": 6.3,
+      "doi": "10.1016/j.apsusc.2016.03.141"
+    },
+    "reactionDetails": [
+      {
+        "ID": "158748",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO2",
+                "conversion": "unknown"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "CO2/H2 = 1.0"
+          },
+          "catalyst": {
+            "catalystName": "Cu/TiO2",
+            "catalystMixtureRatio": "3 wt.% Cu/TiO2",
+            "promoters": [],
+            "catalystBETSurfaceArea": "50 m2/g",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "unknown",
+            "catalystSupport": "cordierite honeycomb monoliths",
+            "catalystShape": "nanoparticles",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "increased with Cu and N loading",
+            "catPreparationMethod": "modified sol-gel method"
+          },
+          "conditions": {
+            "reactionType": "photocatalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "CO2",
+                "pressure": "unknown"
+              },
+              {
+                "gasName": "H2",
+                "pressure": "unknown"
+              }
+            ],
+            "temperature": "100 °C",
+            "reactionTime": "4 hours",
+            "lightSource": "200 W Hg reflector lamp",
+            "lightWavelength": "254 nm",
+            "quantumEfficiency": "0.083%"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CO",
+              "yield": "763 μmole g-catal.−1 h −1",
+              "selectivity": "99%"
+            },
+            {
+              "productName": "H2O",
+              "yield": "unknown",
+              "selectivity": "unknown"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_121923": {
+    "articleInformation": {
+      "pubDate": "2019/09/01",
+      "citations": 58,
+      "title": "Photothermal reverse-water-gas-shift over Au/CeO2 with high yield and selectivity in CO2 conversion",
+      "journalName": "Catalysis Communications",
+      "impactEffect": 3.4,
+      "doi": "10.1016/j.catcom.2019.105724"
+    },
+    "reactionDetails": [
+      {
+        "ID": "166460",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO2",
+                "conversion": "40%"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "CO2:H2 = 1:4"
+          },
+          "catalyst": {
+            "catalystName": "Au/CeO2",
+            "catalystMixtureRatio": "0.9% Au in atomic ratio",
+            "promoters": [],
+            "catalystBETSurfaceArea": "91.3 m2 g-1",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "50 mg",
+            "catalystSupport": "CeO2 nanorods",
+            "catalystShape": "nanoparticles (~ 15 nm) on nanorods (~ 100 nm)",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "photocatalytic deposition method"
+          },
+          "conditions": {
+            "reactionType": "photocatalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "CO2",
+                "pressure": "atmospheric pressure"
+              },
+              {
+                "gasName": "H2",
+                "pressure": "atmospheric pressure"
+              },
+              {
+                "gasName": "N2",
+                "pressure": "atmospheric pressure"
+              }
+            ],
+            "temperature": "400 °C",
+            "reactionTime": "long-term",
+            "lightSource": "Xe lamp",
+            "lightWavelength": "visible light",
+            "quantumEfficiency": "unknown"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CO",
+              "yield": "unknown",
+              "selectivity": "100%"
+            },
+            {
+              "productName": "H2O",
+              "yield": "unknown",
+              "selectivity": "unknown"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_25813": {
+    "articleInformation": {
+      "pubDate": "2017/10/01",
+      "citations": 119,
+      "title": "Photothermal Catalyst Engineering: Hydrogenation of Gaseous CO2 with High Activity and Tailored Selectivity",
+      "journalName": "Advanced Science",
+      "impactEffect": 14.3,
+      "doi": "10.1002/advs.201700252"
+    },
+    "reactionDetails": [
+      {
+        "ID": "40644",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO2",
+                "conversion": "unknown"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "CO2:H2 = 1:1"
+          },
+          "catalyst": {
+            "catalystName": "Pd@Nb2O5",
+            "catalystMixtureRatio": "0.1% to 15% Pd (wt% of Pd)",
+            "promoters": [],
+            "catalystBETSurfaceArea": "80-90 m2 g−1",
+            "turnoverFrequency": "0.61 s−1 (for CO production in flow photoreactor with 10% Pd@Nb2O5)",
+            "catalystLoading": "2 mg (in batch system)",
+            "catalystSupport": "Nb2O5 nanorods",
+            "catalystShape": "Pd nanocrystals on Nb2O5 nanorods, Pd nanocrystal size: 2–3 nm for 0.1% Pd@Nb2O5 to 5–15 nm for 10% Pd@Nb2O5",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "microwave-assisted hydrothermal reduction using Na2PdCl4"
+          },
+          "conditions": {
+            "reactionType": "photocatalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "CO2",
+                "pressure": "unknown"
+              },
+              {
+                "gasName": "H2",
+                "pressure": "unknown"
+              }
+            ],
+            "temperature": "240 °C (In situ DRIFT) , local temperatures of Pd@Nb2O5 samples are estimated to be 414 K for 0.1% Pd@Nb2O5 and 670 K for 0.5% Pd@Nb2O5 while the temperature of 5% Pd@Nb2O5 at the same power level is estimated to be as high as 743 K",
+            "reactionTime": "30 min (batch reactor)",
+            "lightSource": "300 W Xe lamp",
+            "lightWavelength": "250-2000 nm",
+            "quantumEfficiency": "unknown"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CO",
+              "yield": "18.8 mol h−1 gPd−1 (with 0.1% Pd@Nb2O5, batch reactor, 4.2 W cm−2)",
+              "selectivity": "99.5% (with 0.1% Pd@Nb2O5)"
+            },
+            {
+              "productName": "CH4",
+              "yield": "0.1 mol h−1 gPd−1 (with 0.1% Pd@Nb2O5, batch reactor)",
+              "selectivity": "4.76% (with 10% Pd@Nb2O5)"
+            },
+            {
+              "productName": "H2O",
+              "yield": "unknown",
+              "selectivity": "unknown"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_6688": {
+    "articleInformation": {
+      "pubDate": "2020/10/13",
+      "citations": 128,
+      "title": "High-performance light-driven heterogeneous CO2 catalysis with near-unity selectivity on metal phosphides",
+      "journalName": "Nature Communications",
+      "impactEffect": 14.7,
+      "doi": "10.1038/s41467-020-18943-2"
+    },
+    "reactionDetails": [
+      {
+        "ID": "62033",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO2",
+                "conversion": "7.48%"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "CO2/H2 = 5:1"
+          },
+          "catalyst": {
+            "catalystName": "Ni12P5",
+            "catalystMixtureRatio": "unknown",
+            "promoters": [],
+            "catalystBETSurfaceArea": "unknown",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "0.5 mg",
+            "catalystSupport": "borosilicate glass microfiber filter",
+            "catalystShape": "nanoparticles, mean diameter of 86 nm",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "temperature programmed reduction (TPR)"
+          },
+          "conditions": {
+            "reactionType": "photocatalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "H2",
+                "pressure": "3 psi"
+              },
+              {
+                "gasName": "CO2",
+                "pressure": "15 psi"
+              }
+            ],
+            "temperature": "401 °C",
+            "reactionTime": "0.5 h",
+            "lightSource": "300 W Xe lamp",
+            "lightWavelength": "UV-vis-NIR region",
+            "quantumEfficiency": "unknown"
+          },
+          "solvents": {
+            "solventList": [
+              {
+                "solventName": "H2O",
+                "amount": "unknown"
+              }
+            ],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CO",
+              "yield": "156 ± 3 mmol gcat−1 h−1",
+              "selectivity": "99.5%"
+            },
+            {
+              "productName": "H2O",
+              "yield": "unknown",
+              "selectivity": "unknown"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_161432": {
+    "articleInformation": {
+      "pubDate": "2018/07/18",
+      "citations": 194,
+      "title": "Photocatalytic Hydrogenation of Carbon Dioxide with High Selectivity to Methanol at Atmospheric Pressure",
+      "journalName": "Joule",
+      "impactEffect": 38.6,
+      "doi": "10.1016/j.joule.2018.03.007"
+    },
+    "reactionDetails": [
+      {
+        "ID": "212596",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO2",
+                "conversion": "unknown"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "H2:CO2 = 3:1"
+          },
+          "catalyst": {
+            "catalystName": "In2O3−x(OH)y",
+            "catalystMixtureRatio": "unknown",
+            "promoters": [],
+            "catalystBETSurfaceArea": "161.21 m2/g",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "15 mg",
+            "catalystSupport": "quartz tube",
+            "catalystShape": "rod-like nanocrystal superstructure, 2.6 μm",
+            "catalystPoreSize": "3 nm to 7 nm",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "synthesized through a modified reported recipe"
+          },
+          "conditions": {
+            "reactionType": "photocatalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "CO2",
+                "pressure": "atmospheric pressure"
+              },
+              {
+                "gasName": "H2",
+                "pressure": "atmospheric pressure"
+              }
+            ],
+            "temperature": "250°C",
+            "reactionTime": "20 hours",
+            "lightSource": "130 W Xe lamp",
+            "lightWavelength": "unfiltered",
+            "quantumEfficiency": "0.19%"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CO",
+              "yield": "unknown",
+              "selectivity": "50%"
+            },
+            {
+              "productName": "CH3OH",
+              "yield": "0.06 mmol gcat−1 h−1",
+              "selectivity": "50%"
+            },
+            {
+              "productName": "H2O",
+              "yield": "unknown",
+              "selectivity": "unknown"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_305876": {
+    "articleInformation": {
+      "pubDate": "2024/03/01",
+      "citations": 8,
+      "title": "LDH-derived CoTiAl mixed oxide as catalyst for photo-assisted CO2 hydrogenation",
+      "journalName": "Journal Of Co2 Utilization",
+      "impactEffect": 7.2,
+      "doi": "10.1016/j.jcou.2024.102725"
+    },
+    "reactionDetails": [
+      {
+        "ID": "400457",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO2",
+                "conversion": "unknown"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "CO2:H2 = 1:1"
+          },
+          "catalyst": {
+            "catalystName": "CoTiAl mixed oxide",
+            "catalystMixtureRatio": "Co:Ti:Al = 2:0.5:0.5 (metal ratio in LDH precursor)",
+            "promoters": [],
+            "catalystBETSurfaceArea": "10 m2/g (Dubinin-Astakhov, CO2 adsorption)",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "50 mg",
+            "catalystSupport": "fused quartz frit",
+            "catalystShape": "spherical aggregates of 2D nanosheets",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "calcination at 400 °C under air atmosphere of the corresponding LDH as precursor"
+          },
+          "conditions": {
+            "reactionType": "photocatalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "CO2",
+                "pressure": "atmospheric pressure"
+              },
+              {
+                "gasName": "H2",
+                "pressure": "atmospheric pressure"
+              }
+            ],
+            "temperature": "200-350 °C",
+            "reactionTime": "long-term up to 108 h",
+            "lightSource": "300 Xe lamp",
+            "lightWavelength": "full UV–vis wavelength range; narrow band pass filters centered at 365, 405, 550 and 650 nm",
+            "quantumEfficiency": "7% at 365 nm (CO)"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CO",
+              "yield": "12% (total product yield at 200°C)",
+              "selectivity": "72%"
+            },
+            {
+              "productName": "CH4",
+              "yield": "unknown",
+              "selectivity": "28%"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_6746": {
+    "articleInformation": {
+      "pubDate": "2020/11/30",
+      "citations": 224,
+      "title": "Bismuth atom tailoring of indium oxide surface frustrated Lewis pairs boosts heterogeneous CO2 photocatalytic hydrogenation",
+      "journalName": "Nature Communications",
+      "impactEffect": 14.7,
+      "doi": "10.1038/s41467-020-19997-y"
+    },
+    "reactionDetails": [
+      {
+        "ID": "62076",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO2",
+                "conversion": "unknown"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "CO2:H2 = 1:1"
+          },
+          "catalyst": {
+            "catalystName": "BixIn2–xO3",
+            "catalystMixtureRatio": "1.0%",
+            "promoters": [],
+            "catalystBETSurfaceArea": "unknown",
+            "turnoverFrequency": "93.6 h⁻¹",
+            "catalystLoading": "4.5 mg",
+            "catalystSupport": "borosilicate film",
+            "catalystShape": "nanocrystals, 3.5 nm",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "solvothermal route"
+          },
+          "conditions": {
+            "reactionType": "photocatalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "H2",
+                "pressure": "30 psi"
+              },
+              {
+                "gasName": "CO2",
+                "pressure": "30 psi"
+              }
+            ],
+            "temperature": "115 °C",
+            "reactionTime": "1 hour",
+            "lightSource": "300 W Xe lamp",
+            "lightWavelength": "unknown",
+            "quantumEfficiency": "unknown"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CO",
+              "yield": "8000 μmol g−1 h−1",
+              "selectivity": "100%"
+            },
+            {
+              "productName": "H2O",
+              "yield": "unknown",
+              "selectivity": "unknown"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_124268": {
+    "articleInformation": {
+      "pubDate": "2016/02/01",
+      "citations": 89,
+      "title": "Performance analysis of nanostructured NiO-In2O3/TiO2 catalyst for CO2 photoreduction with H2 in a monolith photoreactor",
+      "journalName": "Chemical Engineering Journal",
+      "impactEffect": 13.3,
+      "doi": "10.1016/j.cej.2015.10.033"
+    },
+    "reactionDetails": [
+      {
+        "ID": "169917",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO2",
+                "conversion": "10.2%"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "16.40%"
+              }
+            ],
+            "reactantMixtureRatio": "CO2/H2 = 1.5"
+          },
+          "catalyst": {
+            "catalystName": "NiO–In2O3/TiO2",
+            "catalystMixtureRatio": "1% NiO–3.5% In2O3/TiO2",
+            "promoters": [],
+            "catalystBETSurfaceArea": "98 m2 g−1",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "coated over monolith channels",
+            "catalystSupport": "TiO2",
+            "catalystShape": "nanoparticles, 6–18 nm (mean value of 13.40 nm)",
+            "catalystPoreSize": "larger than TiO2",
+            "catalystPoreVolume": "larger than TiO2",
+            "catPreparationMethod": "Modified sol–gel method"
+          },
+          "conditions": {
+            "reactionType": "photocatalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "CO2",
+                "pressure": "0.40 bar (batch mode)"
+              },
+              {
+                "gasName": "H2",
+                "pressure": "0.40 bar (batch mode)"
+              },
+              {
+                "gasName": "He",
+                "pressure": "0.40 bar (batch mode)"
+              }
+            ],
+            "temperature": "120 °C",
+            "reactionTime": "8 h",
+            "lightSource": "200 W Hg reflector lamp",
+            "lightWavelength": "UV light",
+            "quantumEfficiency": "1.04% (monolith batch process)"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CO",
+              "yield": "12029 μmol g-catal.−1 h−1",
+              "selectivity": "99.70%"
+            },
+            {
+              "productName": "CH4",
+              "yield": "unknown",
+              "selectivity": "0.24%"
+            },
+            {
+              "productName": "C2H4",
+              "yield": "unknown",
+              "selectivity": "unknown"
+            },
+            {
+              "productName": "C2H6",
+              "yield": "unknown",
+              "selectivity": "unknown"
+            },
+            {
+              "productName": "C3H6",
+              "yield": "unknown",
+              "selectivity": "unknown"
+            },
+            {
+              "productName": "C3H8",
+              "yield": "unknown",
+              "selectivity": "unknown"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_6565": {
+    "articleInformation": {
+      "pubDate": "2020/05/15",
+      "citations": 295,
+      "title": "Black indium oxide a photothermal CO2 hydrogenation catalyst",
+      "journalName": "Nature Communications",
+      "impactEffect": 14.7,
+      "doi": "10.1038/s41467-020-16336-z"
+    },
+    "reactionDetails": [
+      {
+        "ID": "11895",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "name": "CO2",
+                "conversion": "unknown"
+              },
+              {
+                "name": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "unknown"
+          },
+          "products": [
+            {
+              "name": "CO",
+              "yield": "unknown",
+              "selectivity": "100%"
+            },
+            {
+              "name": "H2O",
+              "yield": "unknown",
+              "selectivity": "unknown"
+            }
+          ],
+          "catalyst": {
+            "catalystName": "In2O3-x/In2O3",
+            "catalystMixtureRatio": "unknown",
+            "catalystBETSurfaceArea": "12.74 m2·g−1",
+            "turnoverFrequency": "2.44 s⁻¹",
+            "catalystLoading": "unknown",
+            "catalystSupport": "unknown",
+            "catalystShape": "unknown",
+            "catalystPoreSize": "29 to 64 nm",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "Thermal treatment of In(OH)3 nanocrystal in air at 700 °C for 5 h; treated with H2 at 400 °C for 1 h",
+            "promoters": []
+          },
+          "conditions": {
+            "reactionType": "photocatalysis",
+            "isHeterogeneous": "true",
+            "temperature": "573.0 K",
+            "reactionTime": "0.50 h",
+            "lightSource": "unknown",
+            "lightWavelength": "unknown",
+            "quantumEfficiency": "unknown",
+            "gases": [
+              {
+                "name": "air",
+                "pressure": "1.01 bar"
+              }
+            ]
+          },
+          "solvents": {
+            "solventList": [
+              {
+                "name": "H2O",
+                "amount": "unknown"
+              }
+            ],
+            "solventPH": "unknown"
+          }
+        }
+      }
+    ]
+  },
+  "article_304152": {
+    "articleInformation": {
+      "pubDate": "2025/02/15",
+      "citations": 11,
+      "title": "Pt-supported on N-doped carbon/TiO2 nanomaterials derived from NH2-MIL-125 for efficient photo-thermal RWGS reaction",
+      "journalName": "Journal Of Colloid And Interface Science",
+      "impactEffect": 9.4,
+      "doi": "10.1016/j.jcis.2024.11.031"
+    },
+    "reactionDetails": [
+      {
+        "ID": "398101",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO2",
+                "conversion": "42.79%"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "CO2:H2 = 1:4"
+          },
+          "catalyst": {
+            "catalystName": "Pt/TiO2@CN-525",
+            "catalystMixtureRatio": "1.0 wt% Pt",
+            "promoters": [],
+            "catalystBETSurfaceArea": "unknown",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "0.16 g",
+            "catalystSupport": "Nitrogen-doped carbon composite dual-phase TiO2 nanomaterials",
+            "catalystShape": "nanoparticles, 2.18 ± 0.55 nm",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "impregnation method"
+          },
+          "conditions": {
+            "reactionType": "photocatalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "CO2",
+                "pressure": "unknown"
+              },
+              {
+                "gasName": "H2",
+                "pressure": "unknown"
+              },
+              {
+                "gasName": "N2",
+                "pressure": "unknown"
+              }
+            ],
+            "temperature": "400 °C",
+            "reactionTime": "unknown",
+            "lightSource": "300 W Xe lamp",
+            "lightWavelength": "unknown",
+            "quantumEfficiency": "unknown"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CO",
+              "yield": "81.46 mmol gcat⁻¹ h⁻¹",
+              "selectivity": "over 99.9 %"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_140137": {
+    "articleInformation": {
+      "pubDate": "2022/05/01",
+      "citations": 36,
+      "title": "Visible light-assisted thermal catalytic reverse water gas reaction over Cu-CeO2: The synergistic of hot electrons and oxygen vacancies induced by LSPR effect",
+      "journalName": "Fuel",
+      "impactEffect": 6.7,
+      "doi": "10.1016/j.fuel.2022.123186"
+    },
+    "reactionDetails": [
+      {
+        "ID": "187562",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO2",
+                "conversion": "unknown"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "CO2:H2 = 1:4"
+          },
+          "catalyst": {
+            "catalystName": "Cu-CeO2",
+            "catalystMixtureRatio": "2.5 wt%, 5.0 wt%, 7.5 wt%, 10.0 wt%",
+            "promoters": [],
+            "catalystBETSurfaceArea": "77-104 m2·gcat−1",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "240 mg",
+            "catalystSupport": "ceria rod supports",
+            "catalystShape": "nanoparticles of about 5 nm are loaded on CeO2 nanorods",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "wet impregnation method"
+          },
+          "conditions": {
+            "reactionType": "photocatalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "CO2",
+                "pressure": "unknown"
+              },
+              {
+                "gasName": "H2",
+                "pressure": "unknown"
+              }
+            ],
+            "temperature": "210-270 °C",
+            "reactionTime": "1800 min",
+            "lightSource": "Xe lamp using UV-IR cut-off filter to remove UV and IR light which wavelengths below 420 nm and above 760 nm",
+            "lightWavelength": "420–780 nm",
+            "quantumEfficiency": "unknown"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CO",
+              "yield": "increased by 30%",
+              "selectivity": "100%"
+            },
+            {
+              "productName": "H2O",
+              "yield": "unknown",
+              "selectivity": "unknown"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_177751": {
+    "articleInformation": {
+      "pubDate": "2021/06/01",
+      "citations": 61,
+      "title": "MOF encapsulated sub-nm Pd skin/Au nanoparticles as antenna-reactor plasmonic catalyst for light driven CO2 hydrogenation",
+      "journalName": "Nano Energy",
+      "impactEffect": 16.8,
+      "doi": "10.1016/j.nanoen.2021.105950"
+    },
+    "reactionDetails": [
+      {
+        "ID": "229221",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO2",
+                "conversion": "unknown"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "CO2:H2 = 1:3"
+          },
+          "catalyst": {
+            "catalystName": "Au@Pd@UiO-66-NH2-0.5",
+            "catalystMixtureRatio": "unknown",
+            "promoters": [],
+            "catalystBETSurfaceArea": "unknown",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "5 mg",
+            "catalystSupport": "UiO-66-NH2",
+            "catalystShape": "irregular polyhedral shapes with diameters of 150–200 nm",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "solvothermal route using 2-aminoterephthalic acid (H2ATA, 98%) and ZrCl4 as sources and DMF as solvent at 120 °C for 24 h"
+          },
+          "conditions": {
+            "reactionType": "photocatalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "CO2",
+                "pressure": "1 MPa"
+              },
+              {
+                "gasName": "H2",
+                "pressure": "1 MPa"
+              }
+            ],
+            "temperature": "150 °C",
+            "reactionTime": "6 h",
+            "lightSource": "300 W Xe lamp",
+            "lightWavelength": "400 < λ < 650 nm",
+            "quantumEfficiency": "unknown"
+          },
+          "solvents": {
+            "solventList": [
+              {
+                "solventName": "DMF",
+                "amount": "unknown"
+              }
+            ],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CO",
+              "yield": "3737 µmol/gmetal/h",
+              "selectivity": "high"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_153950": {
+    "articleInformation": {
+      "pubDate": "2023/12/01",
+      "citations": 5,
+      "title": "Inverse-type CoOx-TiO2 catalysts for the Energy-Efficient Thermo-Photo Valorization of CO2",
+      "journalName": "Journal Of Cleaner Production",
+      "impactEffect": 9.7,
+      "doi": "10.1016/j.jclepro.2023.139542"
+    },
+    "reactionDetails": [
+      {
+        "ID": "203659",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO2",
+                "conversion": "unknown"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "CO2:H2 = 1:1"
+          },
+          "catalyst": {
+            "catalystName": "CoOx-TiO2",
+            "catalystMixtureRatio": "3-8 mol%",
+            "promoters": [],
+            "catalystBETSurfaceArea": "170-180 m2 g-1",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "unknown",
+            "catalystSupport": "TiO2",
+            "catalystShape": "nanoplatelets",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "microemulsion procedure"
+          },
+          "conditions": {
+            "reactionType": "photocatalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "CO2",
+                "pressure": "unknown"
+              },
+              {
+                "gasName": "H2",
+                "pressure": "unknown"
+              },
+              {
+                "gasName": "N2",
+                "pressure": "unknown"
+              }
+            ],
+            "temperature": "250-350 °C",
+            "reactionTime": "120 h",
+            "lightSource": "four lamps",
+            "lightWavelength": "unknown",
+            "quantumEfficiency": "3.3 × 10−2 %"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CO",
+              "yield": "1-2.2 mmol g-1 h-1",
+              "selectivity": "nearly 100 %"
+            },
+            {
+              "productName": "H2O",
+              "yield": "unknown",
+              "selectivity": "unknown"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_235034": {
+    "articleInformation": {
+      "pubDate": "2018/01/01",
+      "citations": 26,
+      "title": "Low temperature methanol synthesis catalyzed by copper nanoparticles",
+      "journalName": "Catalysis Today",
+      "impactEffect": 5.2,
+      "doi": "10.1016/j.cattod.2017.06.038"
+    },
+    "reactionDetails": [
+      {
+        "ID": "311263",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO",
+                "conversion": "92%"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "CO:H2 = 1:2"
+          },
+          "catalyst": {
+            "catalystName": "Cu nanoparticles",
+            "catalystMixtureRatio": "unknown",
+            "promoters": [],
+            "catalystBETSurfaceArea": "unknown",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "3.6mmol Cu(OAc)2",
+            "catalystSupport": "none",
+            "catalystShape": "10±5nm",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "Hydride reduction of Cu2+ in diglyme",
+            "catAcidityAndBasicity": "unknown",
+            "catMetalOxidationStates": [
+              {
+                "metal": "Cu",
+                "oxidationState": 0,
+                "proportion": "predominantly"
+              }
+            ]
+          },
+          "conditions": {
+            "reactionType": "thermal catalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "syngas",
+                "pressure": "20 bar"
+              }
+            ],
+            "temperature": "100°C",
+            "reactionTime": "2 hours"
+          },
+          "solvents": {
+            "solventList": [
+              {
+                "solventName": "diglyme",
+                "amount": "50 ml"
+              },
+              {
+                "solventName": "MeOH",
+                "amount": "49mmol"
+              }
+            ],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CH3OH",
+              "yield": "unknown",
+              "selectivity": "more than 90%"
+            },
+            {
+              "productName": "methyl formate",
+              "yield": "unknown",
+              "selectivity": "the rest"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_341377": {
+    "articleInformation": {
+      "pubDate": "2005/04/20",
+      "citations": 99,
+      "title": "Catalytic performance of copper supported on zirconia polymorphs for CO hydrogenation",
+      "journalName": "Journal Of Molecular Catalysis A-chemical",
+      "impactEffect": 3.9,
+      "doi": "10.1016/j.molcata.2004.12.026"
+    },
+    "reactionDetails": [
+      {
+        "ID": "467196",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "carbon monoxide",
+                "conversion": "41.38%"
+              },
+              {
+                "reactantName": "hydrogen",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "CO:H2 = 1:2"
+          },
+          "catalyst": {
+            "catalystName": "Cu/t-ZrO2",
+            "catalystMixtureRatio": "10wt.% Cu on ZrO2",
+            "promoters": [],
+            "catalystBETSurfaceArea": "24.5 m²/g",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "1.3 g",
+            "catalystSupport": "tetragonal zirconia",
+            "catalystShape": "unknown",
+            "catalystPoreSize": "4.2 nm",
+            "catalystPoreVolume": "0.02 cm³/g",
+            "catPreparationMethod": "impregnating tetragonal zirconia with Cu(NO3)2 solution, dried and calcined at 623K for 3h. Tetragonal zirconia prepared by co-precipitating oxychloride zirconium with sodium carbonate, filtered, dried and calcined at 823K for 3h.",
+            "catAcidityAndBasicity": "high basicity",
+            "catMetalOxidationStates": [
+              {
+                "metal": "Copper",
+                "oxidationState": 0,
+                "proportion": "unknown"
+              }
+            ]
+          },
+          "conditions": {
+            "reactionType": "thermal catalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "CO",
+                "pressure": "atmospheric pressure"
+              },
+              {
+                "gasName": "H2",
+                "pressure": "atmospheric pressure"
+              }
+            ],
+            "temperature": "573 K",
+            "reactionTime": "unknown"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "methanol",
+              "yield": "0.21 g/mlh",
+              "selectivity": "91.24%"
+            },
+            {
+              "productName": "methane",
+              "yield": "unknown",
+              "selectivity": "2.50%"
+            },
+            {
+              "productName": "carbon dioxide",
+              "yield": "unknown",
+              "selectivity": "6.26%"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_188072": {
+    "articleInformation": {
+      "pubDate": "2003/08/30",
+      "citations": 22,
+      "title": "Integrating low-temperature methanol synthesis and CO2 sequestration technologies:: application to IGCC plants",
+      "journalName": "Catalysis Today",
+      "impactEffect": 5.2,
+      "doi": "10.1016/S0920-5861(03)00303-1"
+    },
+    "reactionDetails": [
+      {
+        "ID": "243596",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO",
+                "conversion": "96-98%"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": ">90%"
+              }
+            ],
+            "reactantMixtureRatio": "H2/CO = 2/1"
+          },
+          "catalyst": {
+            "catalystName": "Ni complex/alkoxide base",
+            "catalystMixtureRatio": "unknown",
+            "promoters": [],
+            "catalystBETSurfaceArea": "unknown",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "unknown",
+            "catalystSupport": "unknown",
+            "catalystShape": "unknown",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "mixing a Ni complex, an alkoxide base in a methanol/glyme solvent mixture",
+            "catAcidityAndBasicity": "basic",
+            "catMetalOxidationStates": []
+          },
+          "conditions": {
+            "reactionType": "thermal catalysis",
+            "isHeterogeneous": false,
+            "gases": [
+              {
+                "gasName": "H2",
+                "pressure": "2-5MPa"
+              },
+              {
+                "gasName": "CO",
+                "pressure": "2-5MPa"
+              }
+            ],
+            "temperature": "<150°C",
+            "reactionTime": "unknown"
+          },
+          "solvents": {
+            "solventList": [
+              {
+                "solventName": "methanol",
+                "amount": "unknown"
+              },
+              {
+                "solventName": "glyme",
+                "amount": "unknown"
+              }
+            ],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CH3OH",
+              "yield": "20gmolMeOH/lcat.h",
+              "selectivity": ">95%"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_203812": {
+    "articleInformation": {
+      "pubDate": "2022/08/05",
+      "citations": 4,
+      "title": "Syngas conversion into light hydrocarbons over bifunctional catalyst: Effect of the density of contact between Cu-ZnO-Al2O3 and SAPO-34",
+      "journalName": "Applied Catalysis A-General",
+      "impactEffect": 4.7,
+      "doi": "10.1016/j.apcata.2022.118757"
+    },
+    "reactionDetails": [
+      {
+        "ID": "268596",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO",
+                "conversion": "54.1%"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "H2/CO/Ar: 53/21/26"
+          },
+          "catalyst": {
+            "catalystName": "Cu-ZnO-Al2O3 & SAPO-34",
+            "catalystMixtureRatio": "SRM(0.50) M1:M2 = 50:50 weight ratio",
+            "promoters": [],
+            "catalystBETSurfaceArea": "97 m2 g-1 (Cu-ZnO-Al2O3), 475 m2 g-1 (SAPO-34)",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "1.20 g",
+            "catalystSupport": "SAPO-34",
+            "catalystShape": "5.4 mm × 3.6 mm pellets, crushed and sized to 160 − 100 µm",
+            "catalystPoreSize": "0.03 cm3 g-1 (SAPO-34)",
+            "catalystPoreVolume": "0.20 cm3 g-1 (Cu-ZnO-Al2O3), 0.23 cm3 g-1 (SAPO-34)",
+            "catPreparationMethod": "physical mixture",
+            "catAcidityAndBasicity": "Lewis acid sites (bands at 3385–3335, 3275, 1622, 1274 and 1219 cm-1), Brønsted acid sites (3270, 1490–1450 cm-1) as well as NH3 adsorbed on Cu+ sites on SAPO-34 (3184 cm-1)",
+            "catMetalOxidationStates": [
+              "CuO",
+              "ZnO"
+            ]
+          },
+          "conditions": {
+            "reactionType": "thermal catalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "H2",
+                "pressure": "30 bar"
+              },
+              {
+                "gasName": "CO",
+                "pressure": "30 bar"
+              },
+              {
+                "gasName": "Ar",
+                "pressure": "30 bar"
+              }
+            ],
+            "temperature": "400 °C",
+            "reactionTime": "15 h"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CH3OH",
+              "yield": "traces",
+              "selectivity": "≈ 45% (CH4), ≈ 40% (CO2), >50% (HC)"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_90568": {
+    "articleInformation": {
+      "pubDate": "2022/08/01",
+      "citations": 31,
+      "title": "A Detailed Process and Techno-Economic Analysis of Methanol Synthesis from H2 and CO2 with Intermediate Condensation Steps",
+      "journalName": "Processes",
+      "impactEffect": 2.8,
+      "doi": "10.3390/pr10081535"
+    },
+    "reactionDetails": [
+      {
+        "ID": "132355",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO",
+                "conversion": "unknown"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ]
+          },
+          "catalyst": {
+            "catalystName": "Cu/ZnO/Al2O3",
+            "catalystMixtureRatio": "unknown",
+            "promoters": [],
+            "catalystBETSurfaceArea": "unknown",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "478.13 ton per reactor module",
+            "catalystSupport": "unknown",
+            "catalystShape": "tubes",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "unknown",
+            "catAcidityAndBasicity": "unknown",
+            "catMetalOxidationStates": []
+          },
+          "conditions": {
+            "reactionType": "thermal catalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              "CO",
+              "H2"
+            ],
+            "temperature": "200-300 °C",
+            "reactionTime": "unknown",
+            "pressure": "50-100 bar"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CH3OH",
+              "yield": "94.3% (overall CO2 conversion to methanol)",
+              "selectivity": "99.5%"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_143956": {
+    "articleInformation": {
+      "pubDate": "2016/05/01",
+      "citations": 133,
+      "title": "Synthesis of methanol from methane: Challenges and advances on the multi-step (syngas) and one-step routes (DMTM)",
+      "journalName": "Fuel Processing Technology",
+      "impactEffect": 7.2,
+      "doi": "10.1016/j.fuproc.2016.01.023"
+    },
+    "reactionDetails": [
+      {
+        "ID": "193365",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO",
+                "conversion": "unknown"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "2:1"
+          },
+          "catalyst": {
+            "catalystName": "Cu–ZnO/Al2O3",
+            "catalystMixtureRatio": "unknown",
+            "promoters": [],
+            "catalystBETSurfaceArea": "unknown",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "unknown",
+            "catalystSupport": "Al2O3",
+            "catalystShape": "unknown",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "alkaline co-precipitation of metal nitrates",
+            "catAcidityAndBasicity": "alkalinity may minimize the action of the acidic sites on the alumina phase",
+            "catMetalOxidationStates": [
+              "Cu(0)",
+              "Cu(I)"
+            ]
+          },
+          "conditions": {
+            "reactionType": "thermal catalysis",
+            "isHeterogeneous": true,
+            "gases": [],
+            "temperature": "473 to 573 K",
+            "reactionTime": "unknown"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "methanol",
+              "yield": "70 to 74%",
+              "selectivity": "99%"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_193275": {
+    "articleInformation": {
+      "pubDate": "1999/05/06",
+      "citations": 26,
+      "title": "Low-temperature methanol synthesis in liquid-phase with a Raney Nickel-alkoxide system: effect of Raney Nickel pretreatment and reaction conditions",
+      "journalName": "Journal Of Molecular Catalysis A-chemical",
+      "impactEffect": 3.9,
+      "doi": "10.1016/S1381-1169(98)00267-2"
+    },
+    "reactionDetails": [
+      {
+        "ID": "252272",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO",
+                "conversion": "92.4%"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "H2/CO=2"
+          },
+          "catalyst": {
+            "catalystName": "Raney-Ni/CH3ONa",
+            "catalystMixtureRatio": "Raney-Ni and 16.3% CH3ONa solution of methanol",
+            "promoters": [],
+            "catalystBETSurfaceArea": "unknown",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "Raney-Ni 1 g",
+            "catalystSupport": "unknown",
+            "catalystShape": "unknown",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "Al (50 wt.%) and Ni (50 wt.%) alloy leached in 5 N NaOH at 346–363 K over 2–38 h, then washed to pH 7, and finally dried with an evaporator",
+            "catAcidityAndBasicity": "unknown",
+            "catMetalOxidationStates": []
+          },
+          "conditions": {
+            "reactionType": "thermal catalysis",
+            "isHeterogeneous": true,
+            "gases": [],
+            "temperature": "423 K",
+            "reactionTime": "2 h"
+          },
+          "solvents": {
+            "solventList": [
+              {
+                "solventName": "triethylene glycol dimethyl ether (DME) (triglyme)",
+                "amount": "88 ml"
+              },
+              {
+                "solventName": "CH3OH",
+                "amount": "210 mmol"
+              }
+            ],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CH3OH",
+              "yield": "unknown",
+              "selectivity": "99.8%"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_315593": {
+    "articleInformation": {
+      "pubDate": "2009/07/25",
+      "citations": 54,
+      "title": "Effect of precipitants during the preparation of Cu-ZnO-Al2O3/Zr-ferrierite catalyst on the DME synthesis from syngas",
+      "journalName": "Journal Of Industrial And Engineering Chemistry",
+      "impactEffect": 5.9,
+      "doi": "10.1016/j.jiec.2009.01.014"
+    },
+    "reactionDetails": [
+      {
+        "ID": "419527",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO",
+                "conversion": "59.4%"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "CO:H2 = 41:38 (in feed CO/CO2/H2 = 41/21/38)"
+          },
+          "catalyst": {
+            "catalystName": "Cu-ZnO-Al2O3",
+            "catalystMixtureRatio": "50wt.% CuO, 40wt.% ZnO, 10wt.% Al2O3",
+            "promoters": [
+              {
+                "promoterName": "(NH4)2CO3",
+                "role": "Preparation agent (promotes Cu dispersion, reducibility, and acidity)"
+              }
+            ],
+            "catalystBETSurfaceArea": "93.4 m²/g",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "1.0 g",
+            "catalystSupport": "Zr-ferrierite",
+            "catalystShape": "Rod-type, nano-sized granules",
+            "catalystPoreSize": "12.8 nm",
+            "catalystPoreVolume": "0.20 cm³/g",
+            "catPreparationMethod": "co-precipitation using (NH4)2CO3 as precipitant",
+            "catAcidityAndBasicity": "Medium acidity (T2): 1.130 mmol/g, Strong acidity (T3): 0.820 mmol/g",
+            "catMetalOxidationStates": [
+              {
+                "metal": "Copper",
+                "oxidationState": 0,
+                "proportion": "co-present"
+              },
+              {
+                "metal": "Copper",
+                "oxidationState": 1,
+                "proportion": "co-present"
+              },
+              {
+                "metal": "Copper",
+                "oxidationState": 2,
+                "proportion": "co-present"
+              },
+              {
+                "metal": "Zinc",
+                "oxidationState": 2,
+                "proportion": "unknown"
+              },
+              {
+                "metal": "Aluminum",
+                "oxidationState": 3,
+                "proportion": "unknown"
+              }
+            ]
+          },
+          "conditions": {
+            "reactionType": "thermal catalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "CO",
+                "pressure": "1.64 MPa"
+              },
+              {
+                "gasName": "H2",
+                "pressure": "1.52 MPa"
+              },
+              {
+                "gasName": "CO2",
+                "pressure": "0.84 MPa"
+              }
+            ],
+            "temperature": "250°C",
+            "reactionTime": "14-16 hours"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CH3OH",
+              "yield": "16.9%",
+              "selectivity": "22.5%"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_270468": {
+    "articleInformation": {
+      "pubDate": "2021/01/01",
+      "citations": 30,
+      "title": "Effect of lanthanum group promoters on Cu/(mixture of ZnO and Zn-Al-spinnel-oxides) catalyst for methanol synthesis by hydrogenation of CO and CO2 mixtures",
+      "journalName": "Fuel",
+      "impactEffect": 6.7,
+      "doi": "10.1016/j.fuel.2020.118987"
+    },
+    "reactionDetails": [
+      {
+        "ID": "355981",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO",
+                "conversion": "29.8-40.0%"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ]
+          },
+          "catalyst": {
+            "catalystName": "Cu-X/ZA500 (X = empty, La, Ce, or Sm)",
+            "catalystMixtureRatio": "Cu:X:ZA500 = 55:5:40 (X = La, Ce, and Sm); Cu:ZA500 = 55:45 (X = empty)",
+            "promoters": [
+              "La",
+              "Ce",
+              "Sm"
+            ],
+            "catalystBETSurfaceArea": "28-77 m2/g",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "0.5 g",
+            "catalystSupport": "mixture of ZnO and Zn-Al-Spinnel-Oxides (ZA500)",
+            "catalystShape": "nanoparticles",
+            "catalystPoreSize": "mesoporous",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "co-precipitation-deposition (Cu-X/ZA500); co-precipitation (CZARef)",
+            "catAcidityAndBasicity": "unknown",
+            "catMetalOxidationStates": [
+              "Cu2+",
+              "Cu0"
+            ]
+          },
+          "conditions": {
+            "reactionType": "thermal catalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "H2",
+                "pressure": "40 bar"
+              },
+              {
+                "gasName": "CO",
+                "pressure": "40 bar"
+              },
+              {
+                "gasName": "CO2",
+                "pressure": "40 bar"
+              },
+              {
+                "gasName": "N2",
+                "pressure": "40 bar"
+              }
+            ],
+            "temperature": "250-350°C",
+            "reactionTime": "12 h"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CH3OH",
+              "yield": "unknown",
+              "selectivity": "89.7-93.4%"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_205780": {
+    "articleInformation": {
+      "pubDate": "2009/07/25",
+      "citations": 52,
+      "title": "Methanol synthesis from sulfur-containing syngas over Pd/CeO2 catalyst",
+      "journalName": "Applied Catalysis B-environmental",
+      "impactEffect": 20.2,
+      "doi": "10.1016/j.apcatb.2009.02.020"
+    },
+    "reactionDetails": [
+      {
+        "ID": "271904",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO",
+                "conversion": "18%"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "61.3% H2, 30.6% CO, 5.1% CO2, 3.0% N2, 30ppm H2S"
+          },
+          "catalyst": {
+            "catalystName": "Pd/CeO2",
+            "catalystMixtureRatio": "15wt.% Pd loading",
+            "promoters": [],
+            "catalystBETSurfaceArea": "unknown",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "0.4g",
+            "catalystSupport": "CeO2",
+            "catalystShape": "20–40mesh particles",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "coprecipitation method",
+            "catAcidityAndBasicity": "unknown",
+            "catMetalOxidationStates": []
+          },
+          "conditions": {
+            "reactionType": "thermal catalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "H2",
+                "pressure": "3.0MPa"
+              },
+              {
+                "gasName": "CO",
+                "pressure": "3.0MPa"
+              },
+              {
+                "gasName": "CO2",
+                "pressure": "3.0MPa"
+              },
+              {
+                "gasName": "N2",
+                "pressure": "3.0MPa"
+              },
+              {
+                "gasName": "H2S",
+                "pressure": "3.0MPa"
+              }
+            ],
+            "temperature": "513K",
+            "reactionTime": "100h"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CH3OH",
+              "yield": "16.4%",
+              "selectivity": "89.1%"
+            },
+            {
+              "productName": "methane",
+              "yield": "unknown",
+              "selectivity": "unknown"
+            },
+            {
+              "productName": "carbon dioxide",
+              "yield": "0.7%",
+              "selectivity": "unknown"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_309039": {
+    "articleInformation": {
+      "pubDate": "2018/01/01",
+      "citations": 21,
+      "title": "Higher alcohols synthesis from syngas over lanthanum-promoted CuZnAl catalyst",
+      "journalName": "Journal Of Energy Chemistry",
+      "impactEffect": 14.0,
+      "doi": "10.1016/j.jechem.2017.10.007"
+    },
+    "reactionDetails": [
+      {
+        "ID": "406540",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "carbon monoxide",
+                "conversion": "over 99%"
+              },
+              {
+                "reactantName": "hydrogen",
+                "conversion": "over 99%"
+              }
+            ],
+            "reactantMixtureRatio": "CO:H2 = 1:2"
+          },
+          "catalyst": {
+            "catalystName": "CuZnAl catalyst",
+            "catalystMixtureRatio": "Cu:Zn:Al = 2:1:0.8",
+            "promoters": [],
+            "catalystBETSurfaceArea": "158.4 m²/g",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "20 g",
+            "catalystSupport": "unknown",
+            "catalystShape": "slurry catalyst",
+            "catalystPoreSize": "13.6 nm",
+            "catalystPoreVolume": "0.26 cm³/g",
+            "catPreparationMethod": "complete liquid phase method",
+            "catAcidityAndBasicity": "weak acid sites at 110 °C",
+            "catMetalOxidationStates": [
+              {
+                "metal": "Zinc",
+                "oxidationState": 2,
+                "proportion": "unknown"
+              },
+              {
+                "metal": "Aluminum",
+                "oxidationState": 3,
+                "proportion": "unknown"
+              },
+              {
+                "metal": "Copper",
+                "oxidationState": 0,
+                "proportion": "unknown"
+              },
+              {
+                "metal": "Copper",
+                "oxidationState": 1,
+                "proportion": "unknown"
+              }
+            ]
+          },
+          "conditions": {
+            "reactionType": "thermal catalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "carbon monoxide",
+                "pressure": "1.5 MPa"
+              },
+              {
+                "gasName": "hydrogen",
+                "pressure": "3 MPa"
+              }
+            ],
+            "temperature": "250–290 °C",
+            "reactionTime": "unknown"
+          },
+          "solvents": {
+            "solventList": [
+              {
+                "solventName": "liquid paraffin",
+                "amount": "unknown"
+              }
+            ],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "methanol",
+              "yield": "over 99%",
+              "selectivity": "over 99%"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_268468": {
+    "articleInformation": {
+      "pubDate": "2008/04/01",
+      "citations": 58,
+      "title": "Study on the deactivation phenomena of Cu-based catalyst for methanol synthesis in slurry phase",
+      "journalName": "Fuel",
+      "impactEffect": 6.7,
+      "doi": "10.1016/j.fuel.2007.07.008"
+    },
+    "reactionDetails": [
+      {
+        "ID": "352613",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO",
+                "conversion": "52.37%"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "CO:H2 = 29:66"
+          },
+          "catalyst": {
+            "catalystName": "CuO–ZnO–Al2O3",
+            "catalystMixtureRatio": "CuO:ZnO:Al2O3 ≈60:35:5",
+            "promoters": [],
+            "catalystBETSurfaceArea": "unknown",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "10 wt%",
+            "catalystSupport": "unknown",
+            "catalystShape": "<250mesh",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "co-precipitation",
+            "catAcidityAndBasicity": "unknown",
+            "catMetalOxidationStates": []
+          },
+          "conditions": {
+            "reactionType": "thermal catalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "H2",
+                "pressure": "0.3MPa"
+              },
+              {
+                "gasName": "N2",
+                "pressure": "0.3MPa"
+              }
+            ],
+            "temperature": "260°C",
+            "reactionTime": "6h"
+          },
+          "solvents": {
+            "solventList": [
+              {
+                "solventName": "paraffin",
+                "amount": "unknown"
+              }
+            ],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "methanol",
+              "yield": "unknown",
+              "selectivity": "99%"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_238619": {
+    "articleInformation": {
+      "pubDate": "2011/03/01",
+      "citations": 69,
+      "title": "Characteristics of an Integrated Micro Packed Bed Reactor-Heat Exchanger for methanol synthesis from syngas",
+      "journalName": "Chemical Engineering Journal",
+      "impactEffect": 13.3,
+      "doi": "10.1016/j.cej.2010.08.074"
+    },
+    "reactionDetails": [
+      {
+        "ID": "316382",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO",
+                "conversion": "37% at 528K, 80 bar, 308ms g/ml, compensated for deactivation"
+              },
+              {
+                "reactantName": "2H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "H2/CO/CO2/N2 = 65/25/5/5 mol%"
+          },
+          "catalyst": {
+            "catalystName": "Cu/ZnO/Al2O3",
+            "catalystMixtureRatio": "unknown",
+            "promoters": [],
+            "catalystBETSurfaceArea": "Table 1",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "loaded into the IMPBRHE slits in dry form",
+            "catalystSupport": "oxidic support",
+            "catalystShape": "particle diameter of 50–120μm",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "standard precipitation procedure developed by ICI",
+            "catAcidityAndBasicity": "unknown",
+            "catMetalOxidationStates": []
+          },
+          "conditions": {
+            "reactionType": "thermal catalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              "CO2",
+              "N2"
+            ],
+            "temperature": "523K (varied in experiments, see figures)",
+            "reactionTime": "about 470ms g/ml"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CH3OH",
+              "yield": "near equilibrium conversion per pass",
+              "selectivity": "98.7 and 100%, methane selectivity was below 1.3%"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_341912": {
+    "articleInformation": {
+      "pubDate": "2006/05/02",
+      "citations": 93,
+      "title": "The direct synthesis of dimethyl ether from syngas over hybrid catalysts with sulfate-modified γ-alumina as methanol dehydration components",
+      "journalName": "Journal Of Molecular Catalysis A-chemical",
+      "impactEffect": 3.9,
+      "doi": "10.1016/j.molcata.2006.01.053"
+    },
+    "reactionDetails": [
+      {
+        "ID": "468528",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO",
+                "conversion": "35.8%"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "CO:H2 = 1:2.2"
+          },
+          "catalyst": {
+            "catalystName": "CuO–ZnO–Al2O3",
+            "catalystMixtureRatio": "Cu:Zn:Al=6:3:1 atomic ratio",
+            "promoters": [],
+            "catalystBETSurfaceArea": "unknown",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "0.667 g",
+            "catalystSupport": "unknown",
+            "catalystShape": "granules (20–40 mesh)",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "conventional coprecipitation method",
+            "catAcidityAndBasicity": "unknown",
+            "catMetalOxidationStates": []
+          },
+          "conditions": {
+            "reactionType": "thermal catalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "H2",
+                "pressure": "2.64 MPa"
+              },
+              {
+                "gasName": "CO",
+                "pressure": "1.2 MPa"
+              },
+              {
+                "gasName": "CO2",
+                "pressure": "0.16 MPa"
+              }
+            ],
+            "temperature": "260°C",
+            "reactionTime": "4h"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CH3OH",
+              "yield": "31.61%",
+              "selectivity": "88.3%"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_143566": {
+    "articleInformation": {
+      "pubDate": "2023/06/15",
+      "citations": 3,
+      "title": "Design of catalyst for syngas conversion to C2 oxygenates via confining diatomic metal within the framework of 2D carbon-based materials",
+      "journalName": "Fuel",
+      "impactEffect": 6.7,
+      "doi": "10.1016/j.fuel.2023.127858"
+    },
+    "reactionDetails": [
+      {
+        "ID": "192767",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO",
+                "conversion": "53.0 %"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "CO + H2 (syngas)"
+          },
+          "catalyst": {
+            "catalystName": "RhCo/C2N",
+            "catalystMixtureRatio": "unknown",
+            "promoters": [],
+            "catalystBETSurfaceArea": "unknown",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "unknown",
+            "catalystSupport": "C2N",
+            "catalystShape": "unknown",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "impregnation method",
+            "catAcidityAndBasicity": "unknown",
+            "catMetalOxidationStates": []
+          },
+          "conditions": {
+            "reactionType": "thermal catalysis",
+            "isHeterogeneous": true,
+            "gases": [],
+            "temperature": "525 K",
+            "reactionTime": "unknown"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CHx",
+              "yield": "unknown",
+              "selectivity": "0 %"
+            },
+            {
+              "productName": "CH3OH",
+              "yield": "unknown",
+              "selectivity": "100 %"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_111339": {
+    "articleInformation": {
+      "pubDate": "2020/08/05",
+      "citations": 27,
+      "title": "ZSM-5-decorated CuO/ZnO/ZrO2 fibers as efficient bifunctional catalysts for the direct synthesis of DME from syngas",
+      "journalName": "Applied Catalysis B-environmental",
+      "impactEffect": 20.2,
+      "doi": "10.1016/j.apcatb.2020.118893"
+    },
+    "reactionDetails": [
+      {
+        "ID": "156262",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO",
+                "conversion": "21.8 %"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "1-3"
+          },
+          "catalyst": {
+            "catalystName": "Cu/ZnO/ZrO2-based catalyst",
+            "catalystMixtureRatio": "Cu/Zn ratio of 2",
+            "promoters": [
+              "ZrO2"
+            ],
+            "catalystBETSurfaceArea": "67 m2/g",
+            "turnoverFrequency": "0.007-0.0115 s-1",
+            "catalystLoading": "25-35 % (w/w) of CuO + ZnO",
+            "catalystSupport": "ZrO2",
+            "catalystShape": "Fibrillar",
+            "catalystPoreSize": "mesoporous",
+            "catalystPoreVolume": "similar value for all fibers",
+            "catPreparationMethod": "electrospinning",
+            "catAcidityAndBasicity": "weak acid site of the ZrO2 fibers",
+            "catMetalOxidationStates": [
+              "Cu"
+            ]
+          },
+          "conditions": {
+            "reactionType": "thermal catalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              "H2",
+              "CO"
+            ],
+            "temperature": "250-300 °C",
+            "reactionTime": "4 h"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CH3OH",
+              "yield": "unknown",
+              "selectivity": ">90 %"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_300293": {
+    "articleInformation": {
+      "pubDate": "2024/01/01",
+      "citations": 17,
+      "title": "Rates and reversibility of CO2 hydrogenation on Cu-based catalysts",
+      "journalName": "Journal Of Catalysis",
+      "impactEffect": 6.5,
+      "doi": "10.1016/j.jcat.2023.115214"
+    },
+    "reactionDetails": [
+      {
+        "ID": "394056",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO",
+                "conversion": "unknown"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "unknown"
+          },
+          "catalyst": {
+            "catalystName": "Cu/ZnO/Al2O3",
+            "catalystMixtureRatio": "unknown",
+            "promoters": [
+              "magnesium"
+            ],
+            "catalystBETSurfaceArea": "unknown",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "0.005-0.081 g",
+            "catalystSupport": "quartz rod (1/8″ O.D.) and quartz wool plug",
+            "catalystShape": "aggregates that are 180–250 μm in diameter",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "crushed, pressed, and sieved",
+            "catAcidityAndBasicity": "unknown",
+            "catMetalOxidationStates": []
+          },
+          "conditions": {
+            "reactionType": "thermal catalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              "He",
+              "CO2",
+              "H2",
+              "Ar"
+            ],
+            "temperature": "523 K",
+            "reactionTime": "transiently observed at approximately 1 ks"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CH3OH",
+              "yield": "enhanced by ∼ 20 % by adding water adsorbents",
+              "selectivity": "> 80 % by increasing inlet H2 partial pressure"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_143813": {
+    "articleInformation": {
+      "pubDate": "2014/05/01",
+      "citations": 41,
+      "title": "Zeolite-based bifunctional catalysts for the single step synthesis of dimethyl ether from CO-rich synthesis gas",
+      "journalName": "Fuel Processing Technology",
+      "impactEffect": 7.2,
+      "doi": "10.1016/j.fuproc.2014.01.006"
+    },
+    "reactionDetails": [
+      {
+        "ID": "193135",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO",
+                "conversion": "10-48%"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "H2:CO = 1:1"
+          },
+          "catalyst": {
+            "catalystName": "Cu/ZnO/Al2O3",
+            "catalystMixtureRatio": "CuO:ZnO:Al2O3:SiO2 = 30:20:20:30 wt.%",
+            "promoters": [],
+            "catalystBETSurfaceArea": "160-205 m2/g",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "2 g",
+            "catalystSupport": "H-MFI 400",
+            "catalystShape": "particle size between 80 and 355 μm",
+            "catalystPoreSize": "unknown",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "co-precipitation sedimentation of a ZrO2-doped CZA-component on an H-ZSM 5 zeolite",
+            "catAcidityAndBasicity": "unknown",
+            "catMetalOxidationStates": []
+          },
+          "conditions": {
+            "reactionType": "thermal catalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "H2",
+                "pressure": "51 bar"
+              },
+              {
+                "gasName": "CO",
+                "pressure": "51 bar"
+              },
+              {
+                "gasName": "Ar",
+                "pressure": "51 bar"
+              },
+              {
+                "gasName": "N2",
+                "pressure": "51 bar"
+              }
+            ],
+            "temperature": "250 °C",
+            "reactionTime": "14 h"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CH3OH",
+              "yield": "unknown",
+              "selectivity": "38-69%"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_212528": {
+    "articleInformation": {
+      "pubDate": "2012/10/01",
+      "citations": 111,
+      "title": "One-step synthesis of dimethyl ether from the gas mixture containing CO2 with high space velocity",
+      "journalName": "Applied Energy",
+      "impactEffect": 10.1,
+      "doi": "10.1016/j.apenergy.2012.02.082"
+    },
+    "reactionDetails": [
+      {
+        "ID": "281416",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO",
+                "conversion": "57.1%"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "33.1%"
+              }
+            ],
+            "reactantMixtureRatio": "H2/CO/CO2/N2 =61/30/5/4 and 48/32/16/4"
+          },
+          "catalyst": {
+            "catalystName": "Cu–ZnO–Al2O3/ZSM5",
+            "catalystMixtureRatio": "5:1 to 2.5:1 (Cu–ZnO–Al2O3:ZSM5)",
+            "promoters": [],
+            "catalystBETSurfaceArea": "68.7m2 g−1 (Cu–ZnO–Al2O3)",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "1 g (Cu–ZnO–Al2O3) mixed with 0.2-0.4 g ZSM5",
+            "catalystSupport": "ZSM5",
+            "catalystShape": "particle sizes in the range of 250–500μm",
+            "catalystPoreSize": "9.77nm (Cu–ZnO–Al2O3)",
+            "catalystPoreVolume": "0.4ccg−1 (Cu–ZnO–Al2O3)",
+            "catPreparationMethod": "coprecipitation method",
+            "catAcidityAndBasicity": "unknown",
+            "catMetalOxidationStates": []
+          },
+          "conditions": {
+            "reactionType": "thermal catalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              {
+                "gasName": "H2",
+                "pressure": "40 atm"
+              },
+              {
+                "gasName": "CO",
+                "pressure": "40 atm"
+              },
+              {
+                "gasName": "CO2",
+                "pressure": "40 atm"
+              },
+              {
+                "gasName": "N2",
+                "pressure": "40 atm"
+              }
+            ],
+            "temperature": "225°C",
+            "reactionTime": "90h"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CH3OH",
+              "yield": "1.89g (gcat h)−1",
+              "selectivity": "90%"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "article_273206": {
+    "articleInformation": {
+      "pubDate": "2011/08/01",
+      "citations": 91,
+      "title": "Direct synthesis of dimethyl ether from carbon-monoxide-rich synthesis gas: Influence of dehydration catalysts and operating conditions",
+      "journalName": "Fuel Processing Technology",
+      "impactEffect": 7.2,
+      "doi": "10.1016/j.fuproc.2011.03.007"
+    },
+    "reactionDetails": [
+      {
+        "ID": "359823",
+        "refinedReaction": {
+          "reactants": {
+            "reactantList": [
+              {
+                "reactantName": "CO",
+                "conversion": "58%"
+              },
+              {
+                "reactantName": "H2",
+                "conversion": "unknown"
+              }
+            ],
+            "reactantMixtureRatio": "1:1"
+          },
+          "catalyst": {
+            "catalystName": "CuO/ZnO/Al2O3 and γ-Al2O3",
+            "catalystMixtureRatio": "1:1",
+            "promoters": [],
+            "catalystBETSurfaceArea": "219 m2/g",
+            "turnoverFrequency": "unknown",
+            "catalystLoading": "2g",
+            "catalystSupport": "Al2O3",
+            "catalystShape": "particle",
+            "catalystPoreSize": ">2nm",
+            "catalystPoreVolume": "unknown",
+            "catPreparationMethod": "mechanical mixing",
+            "catAcidityAndBasicity": "Lewis-acid sites",
+            "catMetalOxidationStates": []
+          },
+          "conditions": {
+            "reactionType": "thermal catalysis",
+            "isHeterogeneous": true,
+            "gases": [
+              "Ar",
+              "N2"
+            ],
+            "temperature": "250°C",
+            "reactionTime": "12h"
+          },
+          "solvents": {
+            "solventList": [],
+            "solventPH": "unknown"
+          },
+          "products": [
+            {
+              "productName": "CH3OH",
+              "yield": "unknown",
+              "selectivity": "60%"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

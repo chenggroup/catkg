@@ -1,0 +1,65 @@
+{
+  "neo4j_version": "5.20.0",
+  "edition": "Community",
+  "java_major": 17,
+  "database": "neo4j",
+  "sha256": "5a53f703cc969ec258beccf5edc4fc69000b97997c670be9ec5697d64bd06a61",
+  "bytes": 85112,
+  "node_counts": [
+    {
+      "label": "Article",
+      "count": 40
+    },
+    {
+      "label": "Catalyst",
+      "count": 40
+    },
+    {
+      "label": "Compound",
+      "count": 18
+    },
+    {
+      "label": "Journal",
+      "count": 23
+    },
+    {
+      "label": "Publisher",
+      "count": 4
+    },
+    {
+      "label": "Reaction",
+      "count": 40
+    }
+  ],
+  "relation_counts": [
+    {
+      "relation": "has_product",
+      "count": 80
+    },
+    {
+      "relation": "is_article_of",
+      "count": 40
+    },
+    {
+      "relation": "is_catalyst_of",
+      "count": 40
+    },
+    {
+      "relation": "is_published_by",
+      "count": 23
+    },
+    {
+      "relation": "is_published_in",
+      "count": 40
+    },
+    {
+      "relation": "is_reactant_of",
+      "count": 80
+    },
+    {
+      "relation": "is_solvent_of",
+      "count": 11
+    }
+  ],
+  "retrieved_path_pairs": 400
+}

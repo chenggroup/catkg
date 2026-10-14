@@ -1,0 +1,850 @@
+{
+  "CO2": {
+    "cid": "280",
+    "cid_name": "Carbon Dioxide",
+    "chebi_id": "CHEBI:16526",
+    "smiles": "C(=O)=O",
+    "molecular_formula": "CO2",
+    "molecular_weight": "44.009"
+  },
+  "carbon dioxide": {
+    "cid": "280",
+    "cid_name": "Carbon Dioxide",
+    "chebi_id": "CHEBI:16526",
+    "smiles": "C(=O)=O",
+    "molecular_formula": "CO2",
+    "molecular_weight": "44.009"
+  },
+  "CO": {
+    "cid": "281",
+    "cid_name": "Carbon Monoxide",
+    "chebi_id": "CHEBI:17245",
+    "smiles": "[C-]#[O+]",
+    "molecular_formula": "CO",
+    "molecular_weight": "28.010"
+  },
+  "carbon monoxide": {
+    "cid": "281",
+    "cid_name": "Carbon Monoxide",
+    "chebi_id": "CHEBI:17245",
+    "smiles": "[C-]#[O+]",
+    "molecular_formula": "CO",
+    "molecular_weight": "28.010"
+  },
+  "CH4": {
+    "cid": "297",
+    "cid_name": "Methane",
+    "chebi_id": "CHEBI:16183",
+    "smiles": "C",
+    "molecular_formula": "CH4",
+    "molecular_weight": "16.043"
+  },
+  "methane": {
+    "cid": "297",
+    "cid_name": "Methane",
+    "chebi_id": "CHEBI:16183",
+    "smiles": "C",
+    "molecular_formula": "CH4",
+    "molecular_weight": "16.043"
+  },
+  "H2S": {
+    "cid": "402",
+    "cid_name": "Hydrogen Sulfide",
+    "chebi_id": "CHEBI:16136",
+    "smiles": "S",
+    "molecular_formula": "H2S",
+    "molecular_weight": "34.08"
+  },
+  "H2": {
+    "cid": "783",
+    "cid_name": "Hydrogen",
+    "chebi_id": "CHEBI:18140",
+    "smiles": "[HH]",
+    "molecular_formula": "H2",
+    "molecular_weight": "2.016"
+  },
+  "hydrogen": {
+    "cid": "783",
+    "cid_name": "Hydrogen",
+    "chebi_id": "CHEBI:18140",
+    "smiles": "[HH]",
+    "molecular_formula": "H2",
+    "molecular_weight": "2.016"
+  },
+  "2H2": {
+    "cid": "783",
+    "cid_name": "Hydrogen",
+    "chebi_id": "CHEBI:18140",
+    "smiles": "[HH]",
+    "molecular_formula": "H2",
+    "molecular_weight": "2.016"
+  },
+  "methanol": {
+    "cid": "887",
+    "cid_name": "Methanol",
+    "chebi_id": "CHEBI:17790",
+    "smiles": "CO",
+    "molecular_formula": "CH4O",
+    "molecular_weight": "32.042"
+  },
+  "CH3OH": {
+    "cid": "887",
+    "cid_name": "Methanol",
+    "chebi_id": "CHEBI:17790",
+    "smiles": "CO",
+    "molecular_formula": "CH4O",
+    "molecular_weight": "32.042"
+  },
+  "MeOH": {
+    "cid": "887",
+    "cid_name": "Methanol",
+    "chebi_id": "CHEBI:17790",
+    "smiles": "CO",
+    "molecular_formula": "CH4O",
+    "molecular_weight": "32.042"
+  },
+  "N2": {
+    "cid": "947",
+    "cid_name": "Nitrogen",
+    "chebi_id": "CHEBI:17997",
+    "smiles": "N#N",
+    "molecular_formula": "N2",
+    "molecular_weight": "28.014"
+  },
+  "H2O": {
+    "cid": "962",
+    "cid_name": "Water",
+    "chebi_id": "CHEBI:15377",
+    "smiles": "O",
+    "molecular_formula": "H2O",
+    "molecular_weight": "18.015"
+  },
+  "DMF": {
+    "cid": "6228",
+    "cid_name": "N,N-Dimethylformamide",
+    "chebi_id": "CHEBI:17741",
+    "smiles": "CN(C)C=O",
+    "molecular_formula": "C3H7NO",
+    "molecular_weight": "73.09"
+  },
+  "C2H6": {
+    "cid": "6324",
+    "cid_name": "Ethane",
+    "chebi_id": "CHEBI:42266",
+    "smiles": "CC",
+    "molecular_formula": "C2H6",
+    "molecular_weight": "30.07"
+  },
+  "C2H4": {
+    "cid": "6325",
+    "cid_name": "Ethylene",
+    "chebi_id": "CHEBI:18153",
+    "smiles": "C=C",
+    "molecular_formula": "C2H4",
+    "molecular_weight": "28.05"
+  },
+  "C3H8": {
+    "cid": "6334",
+    "cid_name": "Propane",
+    "chebi_id": "CHEBI:32879",
+    "smiles": "CCC",
+    "molecular_formula": "C3H8",
+    "molecular_weight": "44.10"
+  },
+  "isobutanol": {
+    "cid": "6560",
+    "cid_name": "Isobutanol",
+    "chebi_id": "CHEBI:46645",
+    "smiles": "CC(C)CO",
+    "molecular_formula": "C4H10O",
+    "molecular_weight": "74.12"
+  },
+  "methyl formate": {
+    "cid": "7865",
+    "cid_name": "Methyl formate",
+    "chebi_id": "CHEBI:77699",
+    "smiles": "COC=O",
+    "molecular_formula": "C2H4O2",
+    "molecular_weight": "60.05"
+  },
+  "glyme": {
+    "cid": "8071",
+    "cid_name": "1,2-Dimethoxyethane",
+    "chebi_id": "CHEBI:42263",
+    "smiles": "COCCOC",
+    "molecular_formula": "C4H10O2",
+    "molecular_weight": "90.12"
+  },
+  "DME": {
+    "cid": "8071",
+    "cid_name": "1,2-Dimethoxyethane",
+    "chebi_id": "CHEBI:42263",
+    "smiles": "COCCOC",
+    "molecular_formula": "C4H10O2",
+    "molecular_weight": "90.12"
+  },
+  "diglyme": {
+    "cid": "8150",
+    "cid_name": "Diglyme",
+    "chebi_id": "CHEBI:46784",
+    "smiles": "COCCOCCOC",
+    "molecular_formula": "C6H14O3",
+    "molecular_weight": "134.17"
+  },
+  "C3H6": {
+    "cid": "8252",
+    "cid_name": "Propylene",
+    "chebi_id": "CHEBI:16052",
+    "smiles": "CC=C",
+    "molecular_formula": "C3H6",
+    "molecular_weight": "42.08"
+  },
+  "dimethyl ether": {
+    "cid": "8254",
+    "cid_name": "Dimethyl Ether",
+    "chebi_id": "CHEBI:28887",
+    "smiles": "COC",
+    "molecular_formula": "C2H6O",
+    "molecular_weight": "46.07"
+  },
+  "Al2O3": {
+    "cid": "14769",
+    "cid_name": "Alumina",
+    "chebi_id": "",
+    "smiles": "O=[Al]O[Al]=O",
+    "molecular_formula": "Al2O3",
+    "molecular_weight": "101.961"
+  },
+  "MgO": {
+    "cid": "14792",
+    "cid_name": "Magnesium Oxide",
+    "chebi_id": "",
+    "smiles": "O=[Mg]",
+    "molecular_formula": "MgO",
+    "molecular_weight": "40.305"
+  },
+  "ZnO": {
+    "cid": "14806",
+    "cid_name": "Zinc White",
+    "chebi_id": "",
+    "smiles": "O=[Zn]",
+    "molecular_formula": "OZn",
+    "molecular_weight": "81.4"
+  },
+  "CuO": {
+    "cid": "14829",
+    "cid_name": "Copper oxide",
+    "chebi_id": "",
+    "smiles": "O=[Cu]",
+    "molecular_formula": "CuO",
+    "molecular_weight": "79.55"
+  },
+  "MnO": {
+    "cid": "14940",
+    "cid_name": "Manganese(II) oxide",
+    "chebi_id": "",
+    "smiles": "O=[Mn]",
+    "molecular_formula": "MnO",
+    "molecular_weight": "70.937"
+  },
+  "Fe": {
+    "cid": "23925",
+    "cid_name": "Iron",
+    "chebi_id": "CHEBI:18248",
+    "smiles": "[Fe]",
+    "molecular_formula": "Fe",
+    "molecular_weight": "55.84"
+  },
+  "Ar": {
+    "cid": "23968",
+    "cid_name": "Argon",
+    "chebi_id": "CHEBI:49474",
+    "smiles": "[Ar]",
+    "molecular_formula": "Ar",
+    "molecular_weight": "39.9"
+  },
+  "Cu(0)": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Cu": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Copper": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Cu0": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "He": {
+    "cid": "23987",
+    "cid_name": "Helium",
+    "chebi_id": "CHEBI:30217",
+    "smiles": "[He]",
+    "molecular_formula": "He",
+    "molecular_weight": "4.00260"
+  },
+  "Zn": {
+    "cid": "23994",
+    "cid_name": "Zinc",
+    "chebi_id": "CHEBI:30185",
+    "smiles": "[Zn]",
+    "molecular_formula": "Zn",
+    "molecular_weight": "65.4"
+  },
+  "TiO2": {
+    "cid": "26042",
+    "cid_name": "Titanium Dioxide",
+    "chebi_id": "CHEBI:32234",
+    "smiles": "O=[Ti]=O",
+    "molecular_formula": "O2Ti",
+    "molecular_weight": "79.866"
+  },
+  "Cu2+": {
+    "cid": "27099",
+    "cid_name": "Cupric Cation",
+    "chebi_id": "CHEBI:29036",
+    "smiles": "[Cu+2]",
+    "molecular_formula": "Cu+2",
+    "molecular_weight": "63.55"
+  },
+  "ZrO2": {
+    "cid": "62395",
+    "cid_name": "Rhuligel",
+    "chebi_id": "",
+    "smiles": "O=[Zr]=O",
+    "molecular_formula": "O2Zr",
+    "molecular_weight": "123.22"
+  },
+  "CeO2": {
+    "cid": "73963",
+    "cid_name": "Ceric oxide",
+    "chebi_id": "CHEBI:79089",
+    "smiles": "O=[Ce]=O",
+    "molecular_formula": "CeO2",
+    "molecular_weight": "172.115"
+  },
+  "Cu+": {
+    "cid": "104815",
+    "cid_name": "Cuprous ion",
+    "chebi_id": "CHEBI:49552",
+    "smiles": "[Cu+]",
+    "molecular_formula": "Cu+",
+    "molecular_weight": "63.55"
+  },
+  "Cu(I)": {
+    "cid": "104815",
+    "cid_name": "Cuprous ion",
+    "chebi_id": "CHEBI:49552",
+    "smiles": "[Cu+]",
+    "molecular_formula": "Cu+",
+    "molecular_weight": "63.55"
+  },
+  "Li2O": {
+    "cid": "166630",
+    "cid_name": "Lithium oxide",
+    "chebi_id": "",
+    "smiles": "[Li+].[Li+].[O-2]",
+    "molecular_formula": "Li2O",
+    "molecular_weight": "29.9"
+  },
+  "(NH4)2CO3": {
+    "cid": "517111",
+    "cid_name": "Ammonium Carbonate",
+    "chebi_id": "CHEBI:229630",
+    "smiles": "C(=O)([O-])[O-].[NH4+].[NH4+]",
+    "molecular_formula": "CH2O3.2H3N",
+    "molecular_weight": "96.09"
+  },
+  "Al": {
+    "cid": "5359268",
+    "cid_name": "Aluminum",
+    "chebi_id": "CHEBI:28984",
+    "smiles": "[Al]",
+    "molecular_formula": "Al",
+    "molecular_weight": "26.981538"
+  },
+  "Al(s)": {
+    "cid": "5359268",
+    "cid_name": "Aluminum",
+    "chebi_id": "CHEBI:28984",
+    "smiles": "[Al]",
+    "molecular_formula": "Al",
+    "molecular_weight": "26.981538"
+  },
+  "Bi": {
+    "cid": "5359367",
+    "cid_name": "Bismuth",
+    "chebi_id": "CHEBI:33301",
+    "smiles": "[Bi]",
+    "molecular_formula": "Bi",
+    "molecular_weight": "208.98040"
+  },
+  "K": {
+    "cid": "5462222",
+    "cid_name": "Potassium",
+    "chebi_id": "CHEBI:26216",
+    "smiles": "[K]",
+    "molecular_formula": "K",
+    "molecular_weight": "39.0983"
+  },
+  "Mg": {
+    "cid": "5462224",
+    "cid_name": "Magnesium",
+    "chebi_id": "CHEBI:25107",
+    "smiles": "[Mg]",
+    "molecular_formula": "Mg",
+    "molecular_weight": "24.305"
+  },
+  "alkanes": {
+    "cid": "",
+    "cid_name": "",
+    "chebi_id": "CHEBI:18310",
+    "smiles": "",
+    "molecular_formula": "",
+    "molecular_weight": ""
+  },
+  "Au/CeO2": {
+    "cid": "129829677",
+    "cid_name": "Au-CeO2",
+    "chebi_id": "",
+    "smiles": "O=[Ce]=O.[Au]",
+    "molecular_formula": "AuCeO2",
+    "molecular_weight": "369.081"
+  },
+  "CHx": {
+    "cid": "6197",
+    "cid_name": "Cycloheximide",
+    "chebi_id": "CHEBI:27641",
+    "smiles": "C[C@H]1C[C@@H](C(=O)[C@@H](C1)[C@@H](CC2CC(=O)NC(=O)C2)O)C",
+    "molecular_formula": "C15H23NO4",
+    "molecular_weight": "281.35"
+  },
+  "Copper Catalyst": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Copper Nanoparticles": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Copper on Silica": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Copper catalyst": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Copper nanoparticles": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Cerium": {
+    "cid": "23974",
+    "cid_name": "Cerium",
+    "chebi_id": "CHEBI:33369",
+    "smiles": "[Ce]",
+    "molecular_formula": "Ce",
+    "molecular_weight": "140.116"
+  },
+  "copper": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Copper on Silicon Nitride": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Zinc": {
+    "cid": "23994",
+    "cid_name": "Zinc",
+    "chebi_id": "CHEBI:30185",
+    "smiles": "[Zn]",
+    "molecular_formula": "Zn",
+    "molecular_weight": "65.4"
+  },
+  "UiO-66-NH2": {
+    "cid": "145926334",
+    "cid_name": "UiO 66-NH2",
+    "chebi_id": "",
+    "smiles": "C1=CC(=C(C=C1C(=O)[O-])N)C(=O)[O-].C1=CC(=C(C=C1C(=O)[O-])N)C(=O)[O-].C1=CC(=C(C=C1C(=O)[O-])N)C(=O)[O-].C1=CC(=C(C=C1C(=O)[O-])N)C(=O)[O-].C1=CC(=C(C=C1C(=O)[O-])N)C(=O)[O-].C1=CC(=C(C=C1C(=O)[O-])N)C(=O)[O-].[OH-].[OH-].[OH-].[OH-].[O-2].[O-2].[O-2].[O-2].[Zr+4].[Zr+4].[Zr+4].[Zr+4].[Zr+4].[Zr+4]",
+    "molecular_formula": "C48H34N6O32Zr6",
+    "molecular_weight": "1754.1"
+  },
+  "Copper on silica": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "copper catalyst": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Copper Complex": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Copper complex": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Cu(1 1 1)": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Copper Catalysts": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Cu-X": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Cu*": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Cu nanowires": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "dendritic Cu": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Copper Electrodes": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "copper on silica": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Copper electrode": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Copper on Chromium Oxide": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Copper Zeolite": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "copper-nickel alloy catalyst": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Reduced copper catalyst": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Copper supported on Silica": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Copper function": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Cu/C": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Copper foil": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Copper (Cu)": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Copper Powder": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Zn foil": {
+    "cid": "23994",
+    "cid_name": "Zinc",
+    "chebi_id": "CHEBI:30185",
+    "smiles": "[Zn]",
+    "molecular_formula": "Zn",
+    "molecular_weight": "65.4"
+  },
+  "Copper Complexes": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Copper complexes": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Metallic Copper": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "Copper Cerium Magnesium Oxide": {
+    "cid": "5359268",
+    "cid_name": "Aluminum",
+    "chebi_id": "CHEBI:28984",
+    "smiles": "[Al]",
+    "molecular_formula": "Al",
+    "molecular_weight": "26.981538"
+  },
+  "Metallic Cu": {
+    "cid": "23978",
+    "cid_name": "Copper",
+    "chebi_id": "CHEBI:28694",
+    "smiles": "[Cu]",
+    "molecular_formula": "Cu",
+    "molecular_weight": "63.55"
+  },
+  "unknown": {
+    "cid": null,
+    "cid_name": null,
+    "chebi_id": null,
+    "smiles": null,
+    "molecular_formula": null,
+    "molecular_weight": null
+  },
+  "4h": {
+    "cid": null,
+    "cid_name": null,
+    "chebi_id": null,
+    "smiles": null,
+    "molecular_formula": null,
+    "molecular_weight": null
+  },
+  "syngas": {
+    "cid": null,
+    "cid_name": null,
+    "chebi_id": null,
+    "smiles": null,
+    "molecular_formula": null,
+    "molecular_weight": null
+  },
+  "SAPO-34": {
+    "cid": null,
+    "cid_name": null,
+    "chebi_id": null,
+    "smiles": null,
+    "molecular_formula": null,
+    "molecular_weight": null
+  },
+  "2g": {
+    "cid": null,
+    "cid_name": null,
+    "chebi_id": null,
+    "smiles": null,
+    "molecular_formula": null,
+    "molecular_weight": null
+  },
+  "Magnesium": {
+    "cid": "5462224",
+    "cid_name": "Magnesium",
+    "chebi_id": "CHEBI:25107",
+    "smiles": "[Mg]",
+    "molecular_formula": "Mg",
+    "molecular_weight": "24.305"
+  },
+  "Ce": {
+    "cid": null,
+    "cid_name": null,
+    "chebi_id": null,
+    "smiles": null,
+    "molecular_formula": null,
+    "molecular_weight": null
+  },
+  "Aluminum": {
+    "cid": "5359268",
+    "cid_name": "Aluminum",
+    "chebi_id": "CHEBI:28984",
+    "smiles": "[Al]",
+    "molecular_formula": "Al",
+    "molecular_weight": "26.981538"
+  },
+  "UV light": {
+    "cid": null,
+    "cid_name": null,
+    "chebi_id": null,
+    "smiles": null,
+    "molecular_formula": null,
+    "molecular_weight": null
+  },
+  "None": {
+    "cid": null,
+    "cid_name": null,
+    "chebi_id": null,
+    "smiles": null,
+    "molecular_formula": null,
+    "molecular_weight": null
+  },
+  "paraffin": {
+    "cid": null,
+    "cid_name": null,
+    "chebi_id": null,
+    "smiles": null,
+    "molecular_formula": null,
+    "molecular_weight": null
+  },
+  "6h": {
+    "cid": null,
+    "cid_name": null,
+    "chebi_id": null,
+    "smiles": null,
+    "molecular_formula": null,
+    "molecular_weight": null
+  }
+}
